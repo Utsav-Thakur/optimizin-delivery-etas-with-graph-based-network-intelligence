@@ -138,6 +138,9 @@ df['segment_factor_clipped'] = df['segment_factor'].clip(-5.0, 20.0)
 
 *Rationale:* Dropping rows with extreme values would create gaps in the routing graph. Clipping restricts values to a realistic operational range, reducing noise while preserving network structure.
 
+![Segment Factor Distribution](output/graphs/segment_factor_distribution.png)
+
+
 ### Step 3 — DateTime Parsing and Temporal Extraction
 The raw date strings in `cutoff_timestamp` are parsed into datetime objects. The pipeline extracts `hour_of_day` (0-23) to capture diurnal traffic cycles. These hours are then grouped into four shift buckets: Morning (06:00-12:00), Afternoon (12:00-18:00), Evening (18:00-24:00), and Night (00:00-06:00).
 
@@ -224,6 +227,8 @@ Traditional ETA prediction models treat each transit segment independently, esti
         └───────> Intermediate Hub (Node C) ──────────────────┘
 ```
 
+![Geographic Network Graph Across India](output/graphs/network_graph.png)
+
 The edge weight ($w_{ij}$) for the corridor connecting node $i$ to node $j$ is defined as the median delay ratio:
 
 $$w_{ij} = \text{median}\left(\frac{\text{segment\_actual\_time}}{\text{segment\_osrm\_time}}\right)$$
@@ -257,6 +262,9 @@ This composite metric prevents the model from flagging highly central hubs that 
 | **Strongly Connected Components**| 847 | Indicates regional sub-networks with isolated local hubs. |
 
 *Rationale:* A simple trip-level feature like distance does not capture whether a transit point is congested. Graph-derived features like betweenness centrality quantify a hub's structural role in the network, providing context that is not available in isolated tabular data.
+
+![Top Hubs Centrality](output/graphs/top_hubs_centrality.png)
+
 
 ---
 
@@ -304,6 +312,10 @@ The models were evaluated on the test partition (40,009 rows) using MAE, RMSE, a
 | **XGBoost (Baseline)** | 48.2 | 84.1 | 58.6% | +57.8% |
 | **XGBoost + Graph Features** | **37.8** | **64.9** | **71.2%** | **+66.9%** |
 
+![Model MAE Comparison](output/graphs/mae_comparison.png)
+![Accuracy Comparison](output/graphs/accuracy_comparison.png)
+
+
 ### Top 10 Feature Importances (XGBoost + Graph)
 
 | Rank | Feature | Importance | Feature Type | Operational Meaning |
@@ -328,6 +340,9 @@ The models were evaluated on the test partition (40,009 rows) using MAE, RMSE, a
 The experimental results support the core hypothesis: **graph features account for 71.5% of the model's feature importance**. The most important feature is the graph edge weight (`corridor_median_delay_ratio`), followed by the source hub's betweenness centrality. Distance and baseline OSRM time are less influential, indicating that network structure and hub congestion are the primary drivers of travel time variations.
 
 The key operational metric is the percentage of predictions within 15% of actual travel times. Under OSRM, only 12.3% of segments meet this threshold. The graph-enhanced XGBoost model increases this to 71.2%. This improvement allows operations teams to provide more reliable delivery estimates and reduce SLA penalties.
+
+![Residual Plot](output/graphs/residual_plot.png)
+
 
 ---
 
@@ -441,6 +456,8 @@ The FTL vs. Carting classifier models routing trade-offs across different distan
   Medium Distance (50-200 km) ───> Crossover point (~150 km)
   Long Distance (> 200 km)   ────> FTL (Necessary to prevent SLA breaches)
 ```
+
+![Delay Heatmap by Route Type & Time of Day](output/graphs/delay_heatmap.png)
 
 *Crossover Analysis:* The FTL vs. Carting crossover point lies at approximately **150 km**. Below this threshold, Carting's lower fixed cost and operational flexibility outweigh delay risks. Above 150 km, the delay penalties associated with Carting (average delay of 3.2x, 79% breach rate) exceed FTL's cost premium, making FTL the more cost-effective option.
 
