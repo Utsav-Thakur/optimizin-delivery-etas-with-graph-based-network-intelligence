@@ -4,6 +4,29 @@
 
 An end-to-end Graph Intelligence + ML system for Delhivery's logistics network — predicting delivery ETAs, surfacing bottleneck hubs, quantifying revenue at risk, and generating zero-API embedded AI recommendations across 144,867 trip segments and 1,508 facilities across India.
 
+
+---
+
+## ## 🖥️ Interactive Dashboard Previews
+
+### 1. Operations Overview & KPIs
+![Dashboard Overview](output/screenshots/dashboard_overview.png)
+
+### 2. Geographic Network Maps (Interactive Leaflet.js rendering)
+![Network Maps](output/screenshots/network_maps.png)
+
+### 3. Bottleneck Hub Analysis (Congestion & centrality metrics)
+![Bottleneck Hubs](output/screenshots/bottleneck_hubs.png)
+
+### 4. Corridor Audit (Chronic delays list)
+![Corridor Audit](output/screenshots/corridor_audit.png)
+
+### 5. ETA Regression Model (Benchmark metrics & plots)
+![ETA Model](output/screenshots/eta_model.png)
+
+### 6. FTL Routing Advisor (Decision framework widget)
+![FTL Advisor](output/screenshots/ftl_advisor.png)
+
 ---
 
 ## ## Problem Statement
