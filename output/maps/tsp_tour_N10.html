@@ -1,0 +1,1077 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_3ea8082b85bd1578b703dd8609508ee7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+<div style="position: fixed; 
+            top: 10px; left: 50px; width: calc(100% - 100px); height: 45px; 
+            background-color: rgba(26, 26, 26, 0.9); z-index:9999; font-size:15px;
+            color: white; padding: 10px; border-radius: 5px; text-align: center;
+            font-family: 'Inter', sans-serif; box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+            border-left: 5px solid #ff4d4d; display: flex; align-items: center; justify-content: center; gap: 15px;">
+    <span>🚨 <b>Top 10 Bottleneck Hubs</b></span> | 
+    <span>Avg Delay: <b>2.20x OSRM</b></span> | 
+    <span>Status: <b style="color: #ff4d4d;">Critical Network Alert</b></span>
+</div>
+    
+            <div class="folium-map" id="map_3ea8082b85bd1578b703dd8609508ee7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_3ea8082b85bd1578b703dd8609508ee7 = L.map(
+                "map_3ea8082b85bd1578b703dd8609508ee7",
+                {
+                    center: [28.4595, 77.0266],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_2c15c24385d925e79a2eee0a8827bd03 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_2c15c24385d925e79a2eee0a8827bd03.addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            var marker_c4f19bebdd0eb5dfd6835fae64b27bb3 = L.marker(
+                [28.4595, 77.0266],
+                {
+}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            var icon_748313deddcdbdfd5f44770299965175 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "home",
+  "prefix": "fa",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_37e2ce8c47c7d222618296e596456fbe = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_440e15ea6b6c6f9d51c72a217f1c43dd = $(`<div id="html_440e15ea6b6c6f9d51c72a217f1c43dd" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Gurgaon_Bilaspur_HB (Haryana)</h4>         <b>Risk Score:</b> 71.7<br>         <b>Betweenness Centrality:</b> 0.2332<br>         <b>SLA Breach %:</b> 95.9%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_37e2ce8c47c7d222618296e596456fbe.setContent(html_440e15ea6b6c6f9d51c72a217f1c43dd);
+            
+        
+
+        marker_c4f19bebdd0eb5dfd6835fae64b27bb3.bindPopup(popup_37e2ce8c47c7d222618296e596456fbe)
+        ;
+
+        
+    
+    
+                marker_c4f19bebdd0eb5dfd6835fae64b27bb3.setIcon(icon_748313deddcdbdfd5f44770299965175);
+            
+    
+            var circle_marker_4d7bf93a9960a4f3a1865acb966650ed = L.circleMarker(
+                [12.9716, 77.5946],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 25.247931170366478, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_e3b1c37ce2f31664737b9217be06f895 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_ce82fc6dfb9e7ec416a10de2da654ff0 = $(`<div id="html_ce82fc6dfb9e7ec416a10de2da654ff0" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Bangalore_Nelmngla_H (Karnataka)</h4>         <b>Risk Score:</b> 65.5<br>         <b>Betweenness Centrality:</b> 0.1525<br>         <b>SLA Breach %:</b> 94.3%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_e3b1c37ce2f31664737b9217be06f895.setContent(html_ce82fc6dfb9e7ec416a10de2da654ff0);
+            
+        
+
+        circle_marker_4d7bf93a9960a4f3a1865acb966650ed.bindPopup(popup_e3b1c37ce2f31664737b9217be06f895)
+        ;
+
+        
+    
+    
+            var circle_marker_cf8242da3cba8d373bf1e86f4c4c5cb1 = L.circleMarker(
+                [22.6841, 88.2982],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 18.05405957645548, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_f2c0ca0f7b1eb49237048300a2d19c13 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2e3ea13d1f86a859790ec5a809bd085b = $(`<div id="html_2e3ea13d1f86a859790ec5a809bd085b" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Kolkata_Dankuni_HB (West Bengal)</h4>         <b>Risk Score:</b> 69.3<br>         <b>Betweenness Centrality:</b> 0.0805<br>         <b>SLA Breach %:</b> 100.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_f2c0ca0f7b1eb49237048300a2d19c13.setContent(html_2e3ea13d1f86a859790ec5a809bd085b);
+            
+        
+
+        circle_marker_cf8242da3cba8d373bf1e86f4c4c5cb1.bindPopup(popup_f2c0ca0f7b1eb49237048300a2d19c13)
+        ;
+
+        
+    
+    
+            var circle_marker_614dd7d88e2a895fe6652a90708cc48e = L.circleMarker(
+                [17.2181, 78.4314],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 17.687143336690166, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_5ebeba6206b83b0450d92ab8a13667f4 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_21f0fe94c452d62d4a79ccaa35d50d35 = $(`<div id="html_21f0fe94c452d62d4a79ccaa35d50d35" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Hyderabad_Shamshbd_H (Telangana)</h4>         <b>Risk Score:</b> 71.0<br>         <b>Betweenness Centrality:</b> 0.0769<br>         <b>SLA Breach %:</b> 100.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_5ebeba6206b83b0450d92ab8a13667f4.setContent(html_21f0fe94c452d62d4a79ccaa35d50d35);
+            
+        
+
+        circle_marker_614dd7d88e2a895fe6652a90708cc48e.bindPopup(popup_5ebeba6206b83b0450d92ab8a13667f4)
+        ;
+
+        
+    
+    
+            var circle_marker_8c41ced075fb526fbc62c8adfbaca8f0 = L.circleMarker(
+                [19.26, 73.05],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.306055431498752, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_51df078e673be63d9652bd13ed54075f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_30138619801e5e3cdb8a3008f0f986e7 = $(`<div id="html_30138619801e5e3cdb8a3008f0f986e7" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Bhiwandi_Mankoli_HB (Maharashtra)</h4>         <b>Risk Score:</b> 65.5<br>         <b>Betweenness Centrality:</b> 0.0531<br>         <b>SLA Breach %:</b> 100.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_51df078e673be63d9652bd13ed54075f.setContent(html_30138619801e5e3cdb8a3008f0f986e7);
+            
+        
+
+        circle_marker_8c41ced075fb526fbc62c8adfbaca8f0.bindPopup(popup_51df078e673be63d9652bd13ed54075f)
+        ;
+
+        
+    
+    
+            var circle_marker_633fe3930533c60fa9f2fe218a71935e = L.circleMarker(
+                [28.5562, 77.1001],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.731088634937315, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_cbe33a84f386aa449174c562808b727f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1c0d140b565abc404ce872a02af7bd57 = $(`<div id="html_1c0d140b565abc404ce872a02af7bd57" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Delhi_Airport_H (Delhi)</h4>         <b>Risk Score:</b> 71.0<br>         <b>Betweenness Centrality:</b> 0.0473<br>         <b>SLA Breach %:</b> 100.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_cbe33a84f386aa449174c562808b727f.setContent(html_1c0d140b565abc404ce872a02af7bd57);
+            
+        
+
+        circle_marker_633fe3930533c60fa9f2fe218a71935e.bindPopup(popup_cbe33a84f386aa449174c562808b727f)
+        ;
+
+        
+    
+    
+            var circle_marker_11d09477d76a768cc1b21214946247e2 = L.circleMarker(
+                [30.7333, 76.7794],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 15.304449990513303, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_844eba84b06ce66c2231ed9a7afcf1e7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cc70f2d38ab517c444748ae9d7d6d3b4 = $(`<div id="html_cc70f2d38ab517c444748ae9d7d6d3b4" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Chandigarh_Mehmdpur_H (Punjab)</h4>         <b>Risk Score:</b> 66.8<br>         <b>Betweenness Centrality:</b> 0.0530<br>         <b>SLA Breach %:</b> 86.2%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_844eba84b06ce66c2231ed9a7afcf1e7.setContent(html_cc70f2d38ab517c444748ae9d7d6d3b4);
+            
+        
+
+        circle_marker_11d09477d76a768cc1b21214946247e2.bindPopup(popup_844eba84b06ce66c2231ed9a7afcf1e7)
+        ;
+
+        
+    
+    
+            var circle_marker_423362d94192929b04d0b3a4849b6393 = L.circleMarker(
+                [18.5204, 73.8567],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.550148138418203, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_10b5347adf78bbf07141eac60f781e8e = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_9bf2098500d95b985ba1b1ffaff6622d = $(`<div id="html_9bf2098500d95b985ba1b1ffaff6622d" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Pune_Tathawde_H (Maharashtra)</h4>         <b>Risk Score:</b> 70.9<br>         <b>Betweenness Centrality:</b> 0.0455<br>         <b>SLA Breach %:</b> 100.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_10b5347adf78bbf07141eac60f781e8e.setContent(html_9bf2098500d95b985ba1b1ffaff6622d);
+            
+        
+
+        circle_marker_423362d94192929b04d0b3a4849b6393.bindPopup(popup_10b5347adf78bbf07141eac60f781e8e)
+        ;
+
+        
+    
+    
+            var circle_marker_876928cd59bccd968d3d177cc644cf62 = L.circleMarker(
+                [28.9931, 77.0151],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.723572252141803, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_8f9c35292eee00f94fbc1c32d5c5b007 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_001a5346eec74ec7df0bcdf663dc2079 = $(`<div id="html_001a5346eec74ec7df0bcdf663dc2079" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Sonipat_Kundli_H (Haryana)</h4>         <b>Risk Score:</b> 63.8<br>         <b>Betweenness Centrality:</b> 0.0472<br>         <b>SLA Breach %:</b> 95.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_8f9c35292eee00f94fbc1c32d5c5b007.setContent(html_001a5346eec74ec7df0bcdf663dc2079);
+            
+        
+
+        circle_marker_876928cd59bccd968d3d177cc644cf62.bindPopup(popup_8f9c35292eee00f94fbc1c32d5c5b007)
+        ;
+
+        
+    
+    
+            var circle_marker_ed2c2062b14d042f7387e25c8ddb6fb1 = L.circleMarker(
+                [26.9124, 75.7873],
+                {"bubblingMouseEvents": true, "color": "#ff4d4d", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#ff4d4d", "fillOpacity": 0.8, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 14.277989404089496, "stroke": true, "weight": 3}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+        var popup_cd283e360071defe1ef5df4da98cdceb = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_1d3be81738d3a0833457b90b18f746c7 = $(`<div id="html_1d3be81738d3a0833457b90b18f746c7" style="width: 100.0%; height: 100.0%;">     <div style="font-family: Arial, sans-serif; width: 250px;">         <h4 style="margin: 0 0 5px 0; color: #ff4d4d;">Jaipur_Hub (Rajasthan)</h4>         <b>Risk Score:</b> 69.0<br>         <b>Betweenness Centrality:</b> 0.0428<br>         <b>SLA Breach %:</b> 100.0%<br>         <b>Intervention:</b> Parallel Route — add alternative corridor to distribute load<br>     </div>     </div>`)[0];
+                popup_cd283e360071defe1ef5df4da98cdceb.setContent(html_1d3be81738d3a0833457b90b18f746c7);
+            
+        
+
+        circle_marker_ed2c2062b14d042f7387e25c8ddb6fb1.bindPopup(popup_cd283e360071defe1ef5df4da98cdceb)
+        ;
+
+        
+    
+    
+            var poly_line_e7d7f7be57cbe7b5f2b3ba04c61ed05a = L.polyline(
+                [[28.4595, 77.0266], [28.9931, 77.0151]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.60934924316738}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_e7d7f7be57cbe7b5f2b3ba04c61ed05a.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Sonipat_Kundli_H (741 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_73367c6f478c055841aa618c99d9991e = L.polyline(
+                [[28.4595, 77.0266], [30.7333, 76.7794]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.48768401848461}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_73367c6f478c055841aa618c99d9991e.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Chandigarh_Mehmdpur_H (656 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_109ff9e9b34133700c68cc06a95edfa8 = L.polyline(
+                [[28.4595, 77.0266], [26.9124, 75.7873]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.602118820879701}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_109ff9e9b34133700c68cc06a95edfa8.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Jaipur_Hub (270 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e7c70f3f1d6a29cb16526ad2f5b8a7d6 = L.polyline(
+                [[28.4595, 77.0266], [18.5204, 73.8567]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 7.02197642307216}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_e7c70f3f1d6a29cb16526ad2f5b8a7d6.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Pune_Tathawde_H (1120 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_94dfc3156ac0af8e5a88080e067bfbea = L.polyline(
+                [[28.4595, 77.0266], [19.26, 73.05]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 7.388946097618437}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_94dfc3156ac0af8e5a88080e067bfbea.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Bhiwandi_Mankoli_HB (1617 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6080443edc5716a7621c0c6562345a88 = L.polyline(
+                [[28.4595, 77.0266], [17.2181, 78.4314]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 7.402451520818244}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_6080443edc5716a7621c0c6562345a88.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Hyderabad_Shamshbd_H (1639 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_32bc9081e1705b9d21e287163af6c2f6 = L.polyline(
+                [[28.4595, 77.0266], [12.9716, 77.5946]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 8.512582578858554}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_32bc9081e1705b9d21e287163af6c2f6.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Bangalore_Nelmngla_H (4976 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d302efef759be91d204946cc170cf7d5 = L.polyline(
+                [[28.4595, 77.0266], [22.6841, 88.2982]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 7.959625305098115}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_d302efef759be91d204946cc170cf7d5.bindTooltip(
+                `<div>
+                     Gurgaon_Bilaspur_HB → Kolkata_Dankuni_HB (2862 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a947452fa1166bd9006ef637486a09f2 = L.polyline(
+                [[28.5562, 77.1001], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3.2188758248682006}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_a947452fa1166bd9006ef637486a09f2.bindTooltip(
+                `<div>
+                     Delhi_Airport_H → Gurgaon_Bilaspur_HB (24 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_9f33f5f9e89d693b93a19f35abd57b62 = L.polyline(
+                [[28.5562, 77.1001], [28.9931, 77.0151]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 1.791759469228055}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_9f33f5f9e89d693b93a19f35abd57b62.bindTooltip(
+                `<div>
+                     Delhi_Airport_H → Sonipat_Kundli_H (5 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_d94881e752dde34afffa62f716f6ed99 = L.polyline(
+                [[28.5562, 77.1001], [19.26, 73.05]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.704414354964107}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_d94881e752dde34afffa62f716f6ed99.bindTooltip(
+                `<div>
+                     Delhi_Airport_H → Bhiwandi_Mankoli_HB (815 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3d39b528327dd3860b665a3aae93509b = L.polyline(
+                [[28.9931, 77.0151], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.634633357861686}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_3d39b528327dd3860b665a3aae93509b.bindTooltip(
+                `<div>
+                     Sonipat_Kundli_H → Gurgaon_Bilaspur_HB (760 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_69fea15fd9f165d57ccad3e2f418f232 = L.polyline(
+                [[28.9931, 77.0151], [28.5562, 77.1001]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 3.4339872044851463}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_69fea15fd9f165d57ccad3e2f418f232.bindTooltip(
+                `<div>
+                     Sonipat_Kundli_H → Delhi_Airport_H (30 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_47aa035445c87f5cb84f4a5b804e9cf6 = L.polyline(
+                [[28.9931, 77.0151], [30.7333, 76.7794]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.484796933490655}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_47aa035445c87f5cb84f4a5b804e9cf6.bindTooltip(
+                `<div>
+                     Sonipat_Kundli_H → Chandigarh_Mehmdpur_H (240 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_0eb6bf08f7bec8e0df90dfb7a167fbfc = L.polyline(
+                [[30.7333, 76.7794], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.57507584059962}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_0eb6bf08f7bec8e0df90dfb7a167fbfc.bindTooltip(
+                `<div>
+                     Chandigarh_Mehmdpur_H → Gurgaon_Bilaspur_HB (716 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_e913064fe6dc2926b12abd15f9c62f34 = L.polyline(
+                [[30.7333, 76.7794], [28.5562, 77.1001]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.51085950651685}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_e913064fe6dc2926b12abd15f9c62f34.bindTooltip(
+                `<div>
+                     Chandigarh_Mehmdpur_H → Delhi_Airport_H (90 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_11f0ca923df69423f62c70ed4ce449c9 = L.polyline(
+                [[30.7333, 76.7794], [28.9931, 77.0151]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.574710978503383}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_11f0ca923df69423f62c70ed4ce449c9.bindTooltip(
+                `<div>
+                     Chandigarh_Mehmdpur_H → Sonipat_Kundli_H (96 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_1236059aaa68bd0d8abce869417473e2 = L.polyline(
+                [[30.7333, 76.7794], [19.26, 73.05]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.0943445622221}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_1236059aaa68bd0d8abce869417473e2.bindTooltip(
+                `<div>
+                     Chandigarh_Mehmdpur_H → Bhiwandi_Mankoli_HB (59 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_50394c0de30b656a81d1ed5dfe752f1c = L.polyline(
+                [[30.7333, 76.7794], [12.9716, 77.5946]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.406719247264253}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_50394c0de30b656a81d1ed5dfe752f1c.bindTooltip(
+                `<div>
+                     Chandigarh_Mehmdpur_H → Bangalore_Nelmngla_H (81 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_be1e50f14defd923cee4383cac1d523b = L.polyline(
+                [[26.9124, 75.7873], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.288267030694535}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_be1e50f14defd923cee4383cac1d523b.bindTooltip(
+                `<div>
+                     Jaipur_Hub → Gurgaon_Bilaspur_HB (197 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_6c237c18753eb5e00518c9469ec7fc0f = L.polyline(
+                [[26.9124, 75.7873], [28.5562, 77.1001]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.043425116919247}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_6c237c18753eb5e00518c9469ec7fc0f.bindTooltip(
+                `<div>
+                     Jaipur_Hub → Delhi_Airport_H (154 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_a5b64422e48a00128bec825ee84e06d7 = L.polyline(
+                [[18.5204, 73.8567], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.829793737512425}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_a5b64422e48a00128bec825ee84e06d7.bindTooltip(
+                `<div>
+                     Pune_Tathawde_H → Gurgaon_Bilaspur_HB (924 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_621344dffa6bf1172b479974fe857219 = L.polyline(
+                [[18.5204, 73.8567], [19.26, 73.05]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.255750041753367}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_621344dffa6bf1172b479974fe857219.bindTooltip(
+                `<div>
+                     Pune_Tathawde_H → Bhiwandi_Mankoli_HB (520 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_c1dd2fee4de2b40f4a076e25151f671b = L.polyline(
+                [[18.5204, 73.8567], [17.2181, 78.4314]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.575949103146316}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_c1dd2fee4de2b40f4a076e25151f671b.bindTooltip(
+                `<div>
+                     Pune_Tathawde_H → Hyderabad_Shamshbd_H (263 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_3392a37ecd35d1324255dc61064d4cd1 = L.polyline(
+                [[18.5204, 73.8567], [12.9716, 77.5946]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.82600010738045}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_3392a37ecd35d1324255dc61064d4cd1.bindTooltip(
+                `<div>
+                     Pune_Tathawde_H → Bangalore_Nelmngla_H (338 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_800b2978b70add99165a5487a71d7ce6 = L.polyline(
+                [[19.26, 73.05], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 7.146772179452637}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_800b2978b70add99165a5487a71d7ce6.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Gurgaon_Bilaspur_HB (1269 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f3ff8ab20991a62fbbd1d53a137daeb9 = L.polyline(
+                [[19.26, 73.05], [28.5562, 77.1001]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.873163834212518}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_f3ff8ab20991a62fbbd1d53a137daeb9.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Delhi_Airport_H (965 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8dce6c285c4095ac813233df2d2f99fc = L.polyline(
+                [[19.26, 73.05], [28.9931, 77.0151]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.60934924316738}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_8dce6c285c4095ac813233df2d2f99fc.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Sonipat_Kundli_H (741 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8a21e128f17c70d06333e70c1c24211a = L.polyline(
+                [[19.26, 73.05], [30.7333, 76.7794]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.0943445622221}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_8a21e128f17c70d06333e70c1c24211a.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Chandigarh_Mehmdpur_H (59 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_473b9f90dba7107fada3be1456ca5d7f = L.polyline(
+                [[19.26, 73.05], [18.5204, 73.8567]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.877735781779639}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_473b9f90dba7107fada3be1456ca5d7f.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Pune_Tathawde_H (356 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fbcda6a3ccae42dba107d33d281f640e = L.polyline(
+                [[19.26, 73.05], [17.2181, 78.4314]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.51025834052315}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_fbcda6a3ccae42dba107d33d281f640e.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Hyderabad_Shamshbd_H (671 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f229880d0fe3d14dddd03d284e34294e = L.polyline(
+                [[19.26, 73.05], [12.9716, 77.5946]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 7.0317412587631285}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_f229880d0fe3d14dddd03d284e34294e.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Bangalore_Nelmngla_H (1131 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_ac3f0522bd207dda2f309ad3b08e7808 = L.polyline(
+                [[19.26, 73.05], [22.6841, 88.2982]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.504288173536645}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_ac3f0522bd207dda2f309ad3b08e7808.bindTooltip(
+                `<div>
+                     Bhiwandi_Mankoli_HB → Kolkata_Dankuni_HB (667 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_1008ea1676a3ee56e0cd0e70a27313ff = L.polyline(
+                [[17.2181, 78.4314], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.04305126783455}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_1008ea1676a3ee56e0cd0e70a27313ff.bindTooltip(
+                `<div>
+                     Hyderabad_Shamshbd_H → Gurgaon_Bilaspur_HB (56 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_41ff0b563f081ef08f920663245d70de = L.polyline(
+                [[17.2181, 78.4314], [18.5204, 73.8567]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.175867270105761}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_41ff0b563f081ef08f920663245d70de.bindTooltip(
+                `<div>
+                     Hyderabad_Shamshbd_H → Pune_Tathawde_H (480 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7e83c6abba6538b9563e4161fe692544 = L.polyline(
+                [[17.2181, 78.4314], [12.9716, 77.5946]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.709530201312334}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_7e83c6abba6538b9563e4161fe692544.bindTooltip(
+                `<div>
+                     Hyderabad_Shamshbd_H → Bangalore_Nelmngla_H (110 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_f842ed88345a5df4af93d0d8ee6e5447 = L.polyline(
+                [[17.2181, 78.4314], [22.6841, 88.2982]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 4.709530201312334}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_f842ed88345a5df4af93d0d8ee6e5447.bindTooltip(
+                `<div>
+                     Hyderabad_Shamshbd_H → Kolkata_Dankuni_HB (110 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_5d5a047f1effd73264960aff2ff7c821 = L.polyline(
+                [[12.9716, 77.5946], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 8.106816038947052}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_5d5a047f1effd73264960aff2ff7c821.bindTooltip(
+                `<div>
+                     Bangalore_Nelmngla_H → Gurgaon_Bilaspur_HB (3316 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_33d82a11b891a785601460682abf79e3 = L.polyline(
+                [[12.9716, 77.5946], [26.9124, 75.7873]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.88653164253051}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_33d82a11b891a785601460682abf79e3.bindTooltip(
+                `<div>
+                     Bangalore_Nelmngla_H → Jaipur_Hub (978 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b42183306192e3b34d34ed0bc85c8403 = L.polyline(
+                [[12.9716, 77.5946], [18.5204, 73.8567]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.093569770045136}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_b42183306192e3b34d34ed0bc85c8403.bindTooltip(
+                `<div>
+                     Bangalore_Nelmngla_H → Pune_Tathawde_H (442 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_7b42556720207470f05c88565eca76dc = L.polyline(
+                [[12.9716, 77.5946], [19.26, 73.05]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.556828061699537}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_7b42556720207470f05c88565eca76dc.bindTooltip(
+                `<div>
+                     Bangalore_Nelmngla_H → Bhiwandi_Mankoli_HB (258 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_8db0d7da9683cb13e968e2f4a6deb1ad = L.polyline(
+                [[12.9716, 77.5946], [17.2181, 78.4314]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.176149732573829}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_8db0d7da9683cb13e968e2f4a6deb1ad.bindTooltip(
+                `<div>
+                     Bangalore_Nelmngla_H → Hyderabad_Shamshbd_H (176 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_b7707dbb70778b2ca3f6439bb2f9c137 = L.polyline(
+                [[12.9716, 77.5946], [22.6841, 88.2982]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.37989735354046}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_b7707dbb70778b2ca3f6439bb2f9c137.bindTooltip(
+                `<div>
+                     Bangalore_Nelmngla_H → Kolkata_Dankuni_HB (216 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_96ae235afddf901e551a286ea60d9c42 = L.polyline(
+                [[22.6841, 88.2982], [28.4595, 77.0266]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 6.490723534502507}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_96ae235afddf901e551a286ea60d9c42.bindTooltip(
+                `<div>
+                     Kolkata_Dankuni_HB → Gurgaon_Bilaspur_HB (658 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+            var poly_line_fd6921deb09cb39beac2c9a004b7df48 = L.polyline(
+                [[22.6841, 88.2982], [19.26, 73.05]],
+                {"bubblingMouseEvents": true, "color": "#4d94ff", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "#4d94ff", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.7, "smoothFactor": 1.0, "stroke": true, "weight": 5.926926025970411}
+            ).addTo(map_3ea8082b85bd1578b703dd8609508ee7);
+        
+    
+            poly_line_fd6921deb09cb39beac2c9a004b7df48.bindTooltip(
+                `<div>
+                     Kolkata_Dankuni_HB → Bhiwandi_Mankoli_HB (374 trips)
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+</script>
+</html>

@@ -1,0 +1,99 @@
+{
+  "network_health_score": 10.2,
+  "critical_hubs_count": 3,
+  "revenue_at_risk_estimate": 12258156.0,
+  "top_intervention": "Upgrade top 3 hubs \u2192 estimated 23% SLA breach reduction",
+  "quick_wins": [
+    {
+      "source": "Phulpur_Shekhpur_D",
+      "destination": "Allahabad_Central_H_1",
+      "delay_ratio": 4.285714285714286,
+      "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+      "priority": "P3",
+      "estimated_time_saved_pct": 30,
+      "reasoning": "Corridor shows 4.3x OSRM delay on 65 trips. Peak delay: Morning. Route type: Carting over 10km avg."
+    },
+    {
+      "source": "Bhopal_Old City",
+      "destination": "Bhopal_Trnsport_H",
+      "delay_ratio": 4.0,
+      "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+      "priority": "P3",
+      "estimated_time_saved_pct": 30,
+      "reasoning": "Corridor shows 4.0x OSRM delay on 56 trips. Peak delay: Morning. Route type: Carting over 8km avg."
+    },
+    {
+      "source": "Kolkata_Dankuni_HB",
+      "destination": "CCU_Beliaghata_DPC",
+      "delay_ratio": 3.4375,
+      "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+      "priority": "P3",
+      "estimated_time_saved_pct": 30,
+      "reasoning": "Corridor shows 3.4x OSRM delay on 58 trips. Peak delay: Afternoon. Route type: Carting over 11km avg."
+    },
+    {
+      "source": "Manjhaul_Purbari_D",
+      "destination": "Muzaffrpur_Bbganj_I",
+      "delay_ratio": 3.414285714285714,
+      "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+      "priority": "P2",
+      "estimated_time_saved_pct": 30,
+      "reasoning": "Corridor shows 3.4x OSRM delay on 80 trips. Peak delay: Night. Route type: FTL over 22km avg."
+    },
+    {
+      "source": "Sonari_Central_DPP_1",
+      "destination": "Sivasagar_Babupaty_D",
+      "delay_ratio": 3.380952380952381,
+      "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+      "priority": "P2",
+      "estimated_time_saved_pct": 30,
+      "reasoning": "Corridor shows 3.4x OSRM delay on 70 trips. Peak delay: Night. Route type: Carting over 12km avg."
+    }
+  ],
+  "structural_risks": [
+    {
+      "node": "IND562132AAA",
+      "name": "Bangalore_Nelmngla_H (Karnataka)",
+      "betweenness": 0.1524793117036648,
+      "pct_sla_breach": 0.9428571428571428,
+      "outbound_trip_count": 9975.0
+    },
+    {
+      "node": "IND160002AAC",
+      "name": "Chandigarh_Mehmdpur_H (Punjab)",
+      "betweenness": 0.053044499905133,
+      "pct_sla_breach": 0.8620689655172413,
+      "outbound_trip_count": 2450.0
+    },
+    {
+      "node": "IND000000ACB",
+      "name": "Gurgaon_Bilaspur_HB (Haryana)",
+      "betweenness": 0.2332260606856692,
+      "pct_sla_breach": 0.9591836734693876,
+      "outbound_trip_count": 23347.0
+    },
+    {
+      "node": "IND421302AAG",
+      "name": "Bhiwandi_Mankoli_HB (Maharashtra)",
+      "betweenness": 0.0530605543149875,
+      "pct_sla_breach": 1.0,
+      "outbound_trip_count": 9088.0
+    },
+    {
+      "node": "IND501359AAE",
+      "name": "Hyderabad_Shamshbd_H (Telangana)",
+      "betweenness": 0.0768714333669016,
+      "pct_sla_breach": 1.0,
+      "outbound_trip_count": 3340.0
+    },
+    {
+      "node": "IND712311AAA",
+      "name": "Kolkata_Dankuni_HB (West Bengal)",
+      "betweenness": 0.0805405957645547,
+      "pct_sla_breach": 1.0,
+      "outbound_trip_count": 2612.0
+    }
+  ],
+  "time_pattern_insight": "Night shipments show 2.24x avg delay vs 2.48x morning \u2014 shift 30% volume to AM",
+  "ftl_vs_carting_insight": "FTL outperforms Carting on routes >150km by -96.4% delay reduction"
+}

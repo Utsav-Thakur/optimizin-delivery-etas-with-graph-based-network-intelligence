@@ -1,0 +1,342 @@
+[
+  {
+    "hub_id": "IND000000ACB",
+    "hub_name": "Gurgaon_Bilaspur_HB (Haryana)",
+    "risk_level": "Critical",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 1791,
+    "insight_text": "Gurgaon_Bilaspur_HB (Haryana) ranks #1 in network criticality. Betweenness centrality 0.2332 means 23.3% of all network paths pass through this hub. SLA breach rate 95.9% across 23347 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 1791 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 1,
+      "sla_breach_pct": 0.9591836734693877,
+      "in_out_ratio": 0.9183673469387755,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Night"
+    }
+  },
+  {
+    "hub_id": "IND562132AAA",
+    "hub_name": "Bangalore_Nelmngla_H (Karnataka)",
+    "risk_level": "Critical",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 752,
+    "insight_text": "Bangalore_Nelmngla_H (Karnataka) ranks #2 in network criticality. Betweenness centrality 0.1525 means 15.2% of all network paths pass through this hub. SLA breach rate 94.3% across 9975 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 752 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 2,
+      "sla_breach_pct": 0.9428571428571428,
+      "in_out_ratio": 1.0285714285714285,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Afternoon"
+    }
+  },
+  {
+    "hub_id": "IND712311AAA",
+    "hub_name": "Kolkata_Dankuni_HB (West Bengal)",
+    "risk_level": "Critical",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 208,
+    "insight_text": "Kolkata_Dankuni_HB (West Bengal) ranks #3 in network criticality. Betweenness centrality 0.0805 means 8.1% of all network paths pass through this hub. SLA breach rate 100.0% across 2612 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 208 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 3,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.0909090909090908,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Morning"
+    }
+  },
+  {
+    "hub_id": "IND501359AAE",
+    "hub_name": "Hyderabad_Shamshbd_H (Telangana)",
+    "risk_level": "Critical",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 267,
+    "insight_text": "Hyderabad_Shamshbd_H (Telangana) ranks #4 in network criticality. Betweenness centrality 0.0769 means 7.7% of all network paths pass through this hub. SLA breach rate 100.0% across 3340 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 267 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 4,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.1111111111111112,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND421302AAG",
+    "hub_name": "Bhiwandi_Mankoli_HB (Maharashtra)",
+    "risk_level": "Critical",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 727,
+    "insight_text": "Bhiwandi_Mankoli_HB (Maharashtra) ranks #5 in network criticality. Betweenness centrality 0.0531 means 5.3% of all network paths pass through this hub. SLA breach rate 100.0% across 9088 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 727 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 5,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.0,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Night"
+    }
+  },
+  {
+    "hub_id": "IND110037AAM",
+    "hub_name": "Delhi_Airport_H (Delhi)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 161,
+    "insight_text": "Delhi_Airport_H (Delhi) ranks #6 in network criticality. Betweenness centrality 0.0473 means 4.7% of all network paths pass through this hub. SLA breach rate 100.0% across 2013 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 161 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 7,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 0.875,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Morning"
+    }
+  },
+  {
+    "hub_id": "IND160002AAC",
+    "hub_name": "Chandigarh_Mehmdpur_H (Punjab)",
+    "risk_level": "Critical",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 168,
+    "insight_text": "Chandigarh_Mehmdpur_H (Punjab) ranks #7 in network criticality. Betweenness centrality 0.0530 means 5.3% of all network paths pass through this hub. SLA breach rate 86.2% across 2450 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 168 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 6,
+      "sla_breach_pct": 0.8620689655172413,
+      "in_out_ratio": 1.103448275862069,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND411033AAA",
+    "hub_name": "Pune_Tathawde_H (Maharashtra)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 324,
+    "insight_text": "Pune_Tathawde_H (Maharashtra) ranks #8 in network criticality. Betweenness centrality 0.0455 means 4.6% of all network paths pass through this hub. SLA breach rate 100.0% across 4061 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 324 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 9,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.15,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Morning"
+    }
+  },
+  {
+    "hub_id": "IND131028AAB",
+    "hub_name": "Sonipat_Kundli_H (Haryana)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 127,
+    "insight_text": "Sonipat_Kundli_H (Haryana) ranks #9 in network criticality. Betweenness centrality 0.0472 means 4.7% of all network paths pass through this hub. SLA breach rate 95.0% across 1682 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 127 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 8,
+      "sla_breach_pct": 0.95,
+      "in_out_ratio": 1.0,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND302014AAA",
+    "hub_name": "Jaipur_Hub (Rajasthan)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 63,
+    "insight_text": "Jaipur_Hub (Rajasthan) ranks #10 in network criticality. Betweenness centrality 0.0428 means 4.3% of all network paths pass through this hub. SLA breach rate 100.0% across 791 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 63 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 11,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.25,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Night"
+    }
+  },
+  {
+    "hub_id": "IND209304AAA",
+    "hub_name": "Kanpur_Central_H_6 (Uttar Pradesh)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 121,
+    "insight_text": "Kanpur_Central_H_6 (Uttar Pradesh) ranks #11 in network criticality. Betweenness centrality 0.0425 means 4.2% of all network paths pass through this hub. SLA breach rate 100.0% across 1513 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 121 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 12,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.2307692307692308,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Night"
+    }
+  },
+  {
+    "hub_id": "IND600056AAB",
+    "hub_name": "MAA_Poonamallee_HB (Tamil Nadu)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 134,
+    "insight_text": "MAA_Poonamallee_HB (Tamil Nadu) ranks #12 in network criticality. Betweenness centrality 0.0411 means 4.1% of all network paths pass through this hub. SLA breach rate 100.0% across 1678 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 134 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 13,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.0,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND781018AAB",
+    "hub_name": "Guwahati_Hub (Assam)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 117,
+    "insight_text": "Guwahati_Hub (Assam) ranks #13 in network criticality. Betweenness centrality 0.0440 means 4.4% of all network paths pass through this hub. SLA breach rate 93.3% across 1568 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 117 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 10,
+      "sla_breach_pct": 0.9333333333333333,
+      "in_out_ratio": 1.1333333333333333,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Night"
+    }
+  },
+  {
+    "hub_id": "IND382430AAB",
+    "hub_name": "Ahmedabad_East_H_1 (Gujarat)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 129,
+    "insight_text": "Ahmedabad_East_H_1 (Gujarat) ranks #14 in network criticality. Betweenness centrality 0.0309 means 3.1% of all network paths pass through this hub. SLA breach rate 92.3% across 1760 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 129 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 14,
+      "sla_breach_pct": 0.9230769230769231,
+      "in_out_ratio": 1.3076923076923077,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Night"
+    }
+  },
+  {
+    "hub_id": "IND462022AAA",
+    "hub_name": "Bhopal_Trnsport_H (Madhya Pradesh)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 116,
+    "insight_text": "Bhopal_Trnsport_H (Madhya Pradesh) ranks #15 in network criticality. Betweenness centrality 0.0283 means 2.8% of all network paths pass through this hub. SLA breach rate 100.0% across 1450 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 116 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 15,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.4444444444444444,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Morning"
+    }
+  },
+  {
+    "hub_id": "IND842001AAA",
+    "hub_name": "Muzaffrpur_Bbganj_I (Bihar)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 56,
+    "insight_text": "Muzaffrpur_Bbganj_I (Bihar) ranks #16 in network criticality. Betweenness centrality 0.0247 means 2.5% of all network paths pass through this hub. SLA breach rate 100.0% across 709 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 56 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 16,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 0.8,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND751002AAB",
+    "hub_name": "Bhubaneshwar_Hub (Orissa)",
+    "risk_level": "High",
+    "intervention": "Capacity Expansion \u2014 inbound volume exceeds outbound capacity",
+    "intervention_type": "facility_upgrade",
+    "delay_reduction_pct": 15,
+    "trips_recovered_monthly": 220,
+    "insight_text": "Bhubaneshwar_Hub (Orissa) ranks #17 in network criticality. Betweenness centrality 0.0226 means 2.3% of all network paths pass through this hub. SLA breach rate 100.0% across 1469 monthly trips. Recommended: Capacity Expansion \u2014 inbound volume exceeds outbound capacity. Expected: 15% SLA breach reduction, recovering 220 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 18,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 2.1666666666666665,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Afternoon"
+    }
+  },
+  {
+    "hub_id": "IND683511AAA",
+    "hub_name": "Aluva_Peedika_H (Kerala)",
+    "risk_level": "High",
+    "intervention": "Capacity Expansion \u2014 inbound volume exceeds outbound capacity",
+    "intervention_type": "facility_upgrade",
+    "delay_reduction_pct": 15,
+    "trips_recovered_monthly": 51,
+    "insight_text": "Aluva_Peedika_H (Kerala) ranks #18 in network criticality. Betweenness centrality 0.0228 means 2.3% of all network paths pass through this hub. SLA breach rate 85.7% across 399 monthly trips. Recommended: Capacity Expansion \u2014 inbound volume exceeds outbound capacity. Expected: 15% SLA breach reduction, recovering 51 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 17,
+      "sla_breach_pct": 0.8571428571428571,
+      "in_out_ratio": 1.8571428571428572,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND854326AAB",
+    "hub_name": "Purnia_Central_H_2 (Bihar)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 84,
+    "insight_text": "Purnia_Central_H_2 (Bihar) ranks #19 in network criticality. Betweenness centrality 0.0190 means 1.9% of all network paths pass through this hub. SLA breach rate 100.0% across 1053 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 84 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 19,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 1.0,
+      "dominant_route_type": "FTL",
+      "busiest_time": "Evening"
+    }
+  },
+  {
+    "hub_id": "IND530012AAA",
+    "hub_name": "Visakhapatnam_Gajuwaka_IP (Andhra Pradesh)",
+    "risk_level": "High",
+    "intervention": "Parallel Route \u2014 add alternative corridor to distribute load",
+    "intervention_type": "parallel_route",
+    "delay_reduction_pct": 8,
+    "trips_recovered_monthly": 56,
+    "insight_text": "Visakhapatnam_Gajuwaka_IP (Andhra Pradesh) ranks #20 in network criticality. Betweenness centrality 0.0182 means 1.8% of all network paths pass through this hub. SLA breach rate 100.0% across 711 monthly trips. Recommended: Parallel Route \u2014 add alternative corridor to distribute load. Expected: 8% SLA breach reduction, recovering 56 trips/month from late status.",
+    "reasoning": {
+      "betweenness_percentile": 20,
+      "sla_breach_pct": 1.0,
+      "in_out_ratio": 0.9090909090909091,
+      "dominant_route_type": "Carting",
+      "busiest_time": "Night"
+    }
+  }
+]

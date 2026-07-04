@@ -1,0 +1,452 @@
+[
+  {
+    "source": "IND212402AAA",
+    "destination": "IND211002AAB",
+    "delay_ratio": 4.285714285714286,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 4.3x OSRM delay on 65 trips. Peak delay: Morning. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND462001AAA",
+    "destination": "IND462022AAA",
+    "delay_ratio": 4.0,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 4.0x OSRM delay on 56 trips. Peak delay: Morning. Route type: Carting over 8km avg."
+  },
+  {
+    "source": "IND712311AAA",
+    "destination": "IND700065AAA",
+    "delay_ratio": 3.4375,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 3.4x OSRM delay on 58 trips. Peak delay: Afternoon. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND851127AAA",
+    "destination": "IND842001AAA",
+    "delay_ratio": 3.414285714285714,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 3.4x OSRM delay on 80 trips. Peak delay: Night. Route type: FTL over 22km avg."
+  },
+  {
+    "source": "IND785690AAB",
+    "destination": "IND785682AAA",
+    "delay_ratio": 3.380952380952381,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 3.4x OSRM delay on 70 trips. Peak delay: Night. Route type: Carting over 12km avg."
+  },
+  {
+    "source": "IND421302AAR",
+    "destination": "IND421004AAA",
+    "delay_ratio": 3.2222222222222223,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 3.2x OSRM delay on 53 trips. Peak delay: Night. Route type: Carting over 7km avg."
+  },
+  {
+    "source": "IND712310AAE",
+    "destination": "IND712124AAA",
+    "delay_ratio": 3.1416666666666666,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 3.1x OSRM delay on 60 trips. Peak delay: Morning. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND401104AAA",
+    "destination": "IND400072AAB",
+    "delay_ratio": 3.0,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 30,
+    "reasoning": "Corridor shows 3.0x OSRM delay on 59 trips. Peak delay: Night. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND852111AAA",
+    "destination": "IND854326AAB",
+    "delay_ratio": 2.9265873015873014,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 28.898809523809522,
+    "reasoning": "Corridor shows 2.9x OSRM delay on 84 trips. Peak delay: Night. Route type: FTL over 28km avg."
+  },
+  {
+    "source": "IND792130AAB",
+    "destination": "IND786001AAB",
+    "delay_ratio": 2.9,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 28.5,
+    "reasoning": "Corridor shows 2.9x OSRM delay on 86 trips. Peak delay: Morning. Route type: Carting over 12km avg."
+  },
+  {
+    "source": "IND852139AAB",
+    "destination": "IND854326AAB",
+    "delay_ratio": 2.80625,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 27.09375,
+    "reasoning": "Corridor shows 2.8x OSRM delay on 84 trips. Peak delay: Afternoon. Route type: FTL over 27km avg."
+  },
+  {
+    "source": "IND400072AAB",
+    "destination": "IND400015AAA",
+    "delay_ratio": 2.7823529411764705,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 26.735294117647058,
+    "reasoning": "Corridor shows 2.8x OSRM delay on 118 trips. Peak delay: Morning. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND742303AAB",
+    "destination": "IND741165AAB",
+    "delay_ratio": 2.7817460317460316,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 26.726190476190474,
+    "reasoning": "Corridor shows 2.8x OSRM delay on 72 trips. Peak delay: Evening. Route type: Carting over 13km avg."
+  },
+  {
+    "source": "IND271210AAA",
+    "destination": "IND271001AAA",
+    "delay_ratio": 2.75,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 26.25,
+    "reasoning": "Corridor shows 2.8x OSRM delay on 72 trips. Peak delay: Night. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND380006AAB",
+    "destination": "IND382430AAB",
+    "delay_ratio": 2.732142857142857,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 25.982142857142858,
+    "reasoning": "Corridor shows 2.7x OSRM delay on 54 trips. Peak delay: Night. Route type: Carting over 9km avg."
+  },
+  {
+    "source": "IND834002AAB",
+    "destination": "IND827013AAA",
+    "delay_ratio": 2.7083333333333335,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 25.625000000000004,
+    "reasoning": "Corridor shows 2.7x OSRM delay on 169 trips. Peak delay: Afternoon. Route type: Carting over 14km avg."
+  },
+  {
+    "source": "IND712311AAA",
+    "destination": "IND700088AAA",
+    "delay_ratio": 2.6666666666666665,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 24.999999999999996,
+    "reasoning": "Corridor shows 2.7x OSRM delay on 83 trips. Peak delay: Afternoon. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND400011AAA",
+    "destination": "IND400072AAD",
+    "delay_ratio": 2.6666666666666665,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 24.999999999999996,
+    "reasoning": "Corridor shows 2.7x OSRM delay on 107 trips. Peak delay: Afternoon. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND845305AAA",
+    "destination": "IND842001AAA",
+    "delay_ratio": 2.6666666666666665,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 24.999999999999996,
+    "reasoning": "Corridor shows 2.7x OSRM delay on 113 trips. Peak delay: Night. Route type: FTL over 30km avg."
+  },
+  {
+    "source": "IND585307AAB",
+    "destination": "IND585104AAA",
+    "delay_ratio": 2.6666666666666665,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 24.999999999999996,
+    "reasoning": "Corridor shows 2.7x OSRM delay on 107 trips. Peak delay: Night. Route type: Carting over 12km avg."
+  },
+  {
+    "source": "IND121004AAB",
+    "destination": "IND110037AAM",
+    "delay_ratio": 2.6333333333333333,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 24.5,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 110 trips. Peak delay: Morning. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND400072AAB",
+    "destination": "IND401104AAA",
+    "delay_ratio": 2.625,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 24.375,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 155 trips. Peak delay: Afternoon. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND582101AAB",
+    "destination": "IND580028AAA",
+    "delay_ratio": 2.6,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 24.0,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 52 trips. Peak delay: Morning. Route type: FTL over 21km avg."
+  },
+  {
+    "source": "IND245304AAA",
+    "destination": "IND201007AAA",
+    "delay_ratio": 2.5934065934065935,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 23.9010989010989,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 52 trips. Peak delay: Night. Route type: Carting over 9km avg."
+  },
+  {
+    "source": "IND781018AAB",
+    "destination": "IND788026AAC",
+    "delay_ratio": 2.588235294117647,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 23.823529411764707,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 91 trips. Peak delay: Afternoon. Route type: FTL over 45km avg."
+  },
+  {
+    "source": "IND400015AAA",
+    "destination": "IND400072AAB",
+    "delay_ratio": 2.5833333333333335,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 23.750000000000004,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 71 trips. Peak delay: Morning. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND741123AAB",
+    "destination": "IND741126AAB",
+    "delay_ratio": 2.5555555555555554,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 23.33333333333333,
+    "reasoning": "Corridor shows 2.6x OSRM delay on 53 trips. Peak delay: Night. Route type: Carting over 15km avg."
+  },
+  {
+    "source": "IND712311AAA",
+    "destination": "IND742101AAC",
+    "delay_ratio": 2.5486111111111107,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 23.22916666666666,
+    "reasoning": "Corridor shows 2.5x OSRM delay on 64 trips. Peak delay: Morning. Route type: FTL over 31km avg."
+  },
+  {
+    "source": "IND221706AAA",
+    "destination": "IND273014AAB",
+    "delay_ratio": 2.533333333333333,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 23.0,
+    "reasoning": "Corridor shows 2.5x OSRM delay on 56 trips. Peak delay: Afternoon. Route type: FTL over 30km avg."
+  },
+  {
+    "source": "IND741126AAB",
+    "destination": "IND741156AAA",
+    "delay_ratio": 2.5,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 22.5,
+    "reasoning": "Corridor shows 2.5x OSRM delay on 60 trips. Peak delay: Night. Route type: Carting over 8km avg."
+  },
+  {
+    "source": "IND400072AAB",
+    "destination": "IND421302AAG",
+    "delay_ratio": 2.5,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 22.5,
+    "reasoning": "Corridor shows 2.5x OSRM delay on 180 trips. Peak delay: Afternoon. Route type: Carting over 10km avg."
+  },
+  {
+    "source": "IND401209AAA",
+    "destination": "IND401104AAA",
+    "delay_ratio": 2.4722222222222223,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 22.083333333333336,
+    "reasoning": "Corridor shows 2.5x OSRM delay on 58 trips. Peak delay: Night. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND400102AAC",
+    "destination": "IND421302AAG",
+    "delay_ratio": 2.4545454545454546,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.81818181818182,
+    "reasoning": "Corridor shows 2.5x OSRM delay on 81 trips. Peak delay: Afternoon. Route type: Carting over 12km avg."
+  },
+  {
+    "source": "IND410206AAB",
+    "destination": "IND000000AFT",
+    "delay_ratio": 2.4450549450549453,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.67582417582418,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 72 trips. Peak delay: Morning. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND788026AAC",
+    "destination": "IND781018AAB",
+    "delay_ratio": 2.44,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 21.599999999999998,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 149 trips. Peak delay: Evening. Route type: FTL over 41km avg."
+  },
+  {
+    "source": "IND712103AAA",
+    "destination": "IND712310AAE",
+    "delay_ratio": 2.430769230769231,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.461538461538467,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 76 trips. Peak delay: Morning. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND401209AAB",
+    "destination": "IND421302AAH",
+    "delay_ratio": 2.4285714285714284,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 21.428571428571427,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 59 trips. Peak delay: Evening. Route type: Carting over 12km avg."
+  },
+  {
+    "source": "IND516115AAA",
+    "destination": "IND517501AAB",
+    "delay_ratio": 2.4285714285714284,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.428571428571427,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 136 trips. Peak delay: Morning. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND507303AAA",
+    "destination": "IND507002AAA",
+    "delay_ratio": 2.41875,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.281250000000004,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 72 trips. Peak delay: Afternoon. Route type: FTL over 19km avg."
+  },
+  {
+    "source": "IND832109AAB",
+    "destination": "IND834002AAB",
+    "delay_ratio": 2.41875,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 21.281250000000004,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 106 trips. Peak delay: Night. Route type: FTL over 25km avg."
+  },
+  {
+    "source": "IND516101AAA",
+    "destination": "IND516115AAA",
+    "delay_ratio": 2.4017857142857144,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.026785714285715,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 70 trips. Peak delay: Morning. Route type: Carting over 9km avg."
+  },
+  {
+    "source": "IND421302AAG",
+    "destination": "IND401104AAA",
+    "delay_ratio": 2.4,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.0,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 155 trips. Peak delay: Afternoon. Route type: Carting over 14km avg."
+  },
+  {
+    "source": "IND210501AAB",
+    "destination": "IND209304AAA",
+    "delay_ratio": 2.4,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 21.0,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 141 trips. Peak delay: Morning. Route type: Carting over 14km avg."
+  },
+  {
+    "source": "IND741156AAA",
+    "destination": "IND742102AAB",
+    "delay_ratio": 2.4,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 21.0,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 65 trips. Peak delay: Night. Route type: Carting over 9km avg."
+  },
+  {
+    "source": "IND583101AAA",
+    "destination": "IND583201AAA",
+    "delay_ratio": 2.3693181818181817,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 20.539772727272727,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 54 trips. Peak delay: Night. Route type: FTL over 21km avg."
+  },
+  {
+    "source": "IND400072AAB",
+    "destination": "IND000000AFT",
+    "delay_ratio": 2.3636363636363638,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 20.454545454545457,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 134 trips. Peak delay: Morning. Route type: Carting over 11km avg."
+  },
+  {
+    "source": "IND211002AAB",
+    "destination": "IND485001AAC",
+    "delay_ratio": 2.359210526315789,
+    "fix": "Route audit \u2014 check for infrastructure constraints on this corridor",
+    "priority": "P3",
+    "estimated_time_saved_pct": 20.38815789473684,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 78 trips. Peak delay: Morning. Route type: FTL over 31km avg."
+  },
+  {
+    "source": "IND712311AAA",
+    "destination": "IND781018AAB",
+    "delay_ratio": 2.3529411764705883,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 20.294117647058826,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 203 trips. Peak delay: Night. Route type: FTL over 44km avg."
+  },
+  {
+    "source": "IND834002AAB",
+    "destination": "IND832109AAB",
+    "delay_ratio": 2.3508771929824563,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 20.263157894736846,
+    "reasoning": "Corridor shows 2.4x OSRM delay on 70 trips. Peak delay: Evening. Route type: FTL over 24km avg."
+  },
+  {
+    "source": "IND600008AAC",
+    "destination": "IND600056AAB",
+    "delay_ratio": 2.3333333333333335,
+    "fix": "Schedule shift \u2014 move volume to Morning/Afternoon to avoid peak congestion",
+    "priority": "P2",
+    "estimated_time_saved_pct": 20.000000000000004,
+    "reasoning": "Corridor shows 2.3x OSRM delay on 71 trips. Peak delay: Night. Route type: Carting over 10km avg."
+  }
+]

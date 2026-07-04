@@ -1,0 +1,502 @@
+[
+  {
+    "source_center": "IND212402AAA",
+    "destination_center": "IND211002AAB",
+    "median_delay_ratio": 4.285714285714286,
+    "trip_count": 65,
+    "pct_delayed": 1.0,
+    "avg_distance": 10.474952307692307,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND462001AAA",
+    "destination_center": "IND462022AAA",
+    "median_delay_ratio": 4.0,
+    "trip_count": 56,
+    "pct_delayed": 0.9821428571428572,
+    "avg_distance": 7.800762499999999,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND712311AAA",
+    "destination_center": "IND700065AAA",
+    "median_delay_ratio": 3.4375,
+    "trip_count": 58,
+    "pct_delayed": 1.0,
+    "avg_distance": 10.659972413793104,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND851127AAA",
+    "destination_center": "IND842001AAA",
+    "median_delay_ratio": 3.414285714285714,
+    "trip_count": 80,
+    "pct_delayed": 1.0,
+    "avg_distance": 22.41364375,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND785690AAB",
+    "destination_center": "IND785682AAA",
+    "median_delay_ratio": 3.380952380952381,
+    "trip_count": 70,
+    "pct_delayed": 0.9714285714285714,
+    "avg_distance": 12.018674285714283,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND421302AAR",
+    "destination_center": "IND421004AAA",
+    "median_delay_ratio": 3.2222222222222223,
+    "trip_count": 53,
+    "pct_delayed": 0.8867924528301887,
+    "avg_distance": 7.256366037735849,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND712310AAE",
+    "destination_center": "IND712124AAA",
+    "median_delay_ratio": 3.1416666666666666,
+    "trip_count": 60,
+    "pct_delayed": 0.9833333333333332,
+    "avg_distance": 9.586016666666668,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND401104AAA",
+    "destination_center": "IND400072AAB",
+    "median_delay_ratio": 3.0,
+    "trip_count": 59,
+    "pct_delayed": 0.9830508474576272,
+    "avg_distance": 10.761625423728812,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND852111AAA",
+    "destination_center": "IND854326AAB",
+    "median_delay_ratio": 2.9265873015873014,
+    "trip_count": 84,
+    "pct_delayed": 0.9523809523809524,
+    "avg_distance": 27.75846666666667,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND792130AAB",
+    "destination_center": "IND786001AAB",
+    "median_delay_ratio": 2.9,
+    "trip_count": 86,
+    "pct_delayed": 0.9651162790697676,
+    "avg_distance": 12.125327906976745,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND852139AAB",
+    "destination_center": "IND854326AAB",
+    "median_delay_ratio": 2.80625,
+    "trip_count": 84,
+    "pct_delayed": 0.9761904761904762,
+    "avg_distance": 26.506589285714284,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND400072AAB",
+    "destination_center": "IND400015AAA",
+    "median_delay_ratio": 2.7823529411764705,
+    "trip_count": 118,
+    "pct_delayed": 0.9067796610169492,
+    "avg_distance": 10.251518644067795,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND742303AAB",
+    "destination_center": "IND741165AAB",
+    "median_delay_ratio": 2.781746031746032,
+    "trip_count": 72,
+    "pct_delayed": 1.0,
+    "avg_distance": 13.326566666666666,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Evening"
+  },
+  {
+    "source_center": "IND271210AAA",
+    "destination_center": "IND271001AAA",
+    "median_delay_ratio": 2.75,
+    "trip_count": 72,
+    "pct_delayed": 0.9305555555555556,
+    "avg_distance": 11.222979166666669,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND380006AAB",
+    "destination_center": "IND382430AAB",
+    "median_delay_ratio": 2.732142857142857,
+    "trip_count": 54,
+    "pct_delayed": 1.0,
+    "avg_distance": 9.071446296296296,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND834002AAB",
+    "destination_center": "IND827013AAA",
+    "median_delay_ratio": 2.708333333333333,
+    "trip_count": 169,
+    "pct_delayed": 0.8106508875739645,
+    "avg_distance": 13.683265088757397,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND712311AAA",
+    "destination_center": "IND700088AAA",
+    "median_delay_ratio": 2.6666666666666665,
+    "trip_count": 83,
+    "pct_delayed": 0.8795180722891566,
+    "avg_distance": 11.36132530120482,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND400011AAA",
+    "destination_center": "IND400072AAD",
+    "median_delay_ratio": 2.6666666666666665,
+    "trip_count": 107,
+    "pct_delayed": 0.9626168224299064,
+    "avg_distance": 10.058820560747662,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND845305AAA",
+    "destination_center": "IND842001AAA",
+    "median_delay_ratio": 2.6666666666666665,
+    "trip_count": 113,
+    "pct_delayed": 0.9469026548672568,
+    "avg_distance": 30.41160353982301,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND585307AAB",
+    "destination_center": "IND585104AAA",
+    "median_delay_ratio": 2.6666666666666665,
+    "trip_count": 107,
+    "pct_delayed": 0.97196261682243,
+    "avg_distance": 12.011806542056076,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND121004AAB",
+    "destination_center": "IND110037AAM",
+    "median_delay_ratio": 2.6333333333333333,
+    "trip_count": 110,
+    "pct_delayed": 0.990909090909091,
+    "avg_distance": 9.662382727272728,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND400072AAB",
+    "destination_center": "IND401104AAA",
+    "median_delay_ratio": 2.625,
+    "trip_count": 155,
+    "pct_delayed": 0.9225806451612903,
+    "avg_distance": 9.697074838709677,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND582101AAB",
+    "destination_center": "IND580028AAA",
+    "median_delay_ratio": 2.6,
+    "trip_count": 52,
+    "pct_delayed": 1.0,
+    "avg_distance": 21.49810961538461,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND245304AAA",
+    "destination_center": "IND201007AAA",
+    "median_delay_ratio": 2.593406593406593,
+    "trip_count": 52,
+    "pct_delayed": 0.9423076923076924,
+    "avg_distance": 8.615076923076924,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND781018AAB",
+    "destination_center": "IND788026AAC",
+    "median_delay_ratio": 2.588235294117647,
+    "trip_count": 91,
+    "pct_delayed": 0.967032967032967,
+    "avg_distance": 44.96817802197803,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND400015AAA",
+    "destination_center": "IND400072AAB",
+    "median_delay_ratio": 2.583333333333333,
+    "trip_count": 71,
+    "pct_delayed": 0.943661971830986,
+    "avg_distance": 9.79733661971831,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND741123AAB",
+    "destination_center": "IND741126AAB",
+    "median_delay_ratio": 2.555555555555556,
+    "trip_count": 53,
+    "pct_delayed": 0.981132075471698,
+    "avg_distance": 14.8173,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND712311AAA",
+    "destination_center": "IND742101AAC",
+    "median_delay_ratio": 2.5486111111111107,
+    "trip_count": 64,
+    "pct_delayed": 0.984375,
+    "avg_distance": 30.83760625,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND221706AAA",
+    "destination_center": "IND273014AAB",
+    "median_delay_ratio": 2.533333333333333,
+    "trip_count": 56,
+    "pct_delayed": 1.0,
+    "avg_distance": 29.56868928571429,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND741126AAB",
+    "destination_center": "IND741156AAA",
+    "median_delay_ratio": 2.5,
+    "trip_count": 60,
+    "pct_delayed": 0.8,
+    "avg_distance": 7.975873333333333,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND400072AAB",
+    "destination_center": "IND421302AAG",
+    "median_delay_ratio": 2.5,
+    "trip_count": 180,
+    "pct_delayed": 0.95,
+    "avg_distance": 9.930990555555557,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND401209AAA",
+    "destination_center": "IND401104AAA",
+    "median_delay_ratio": 2.4722222222222223,
+    "trip_count": 58,
+    "pct_delayed": 0.9827586206896552,
+    "avg_distance": 11.343925862068964,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND400102AAC",
+    "destination_center": "IND421302AAG",
+    "median_delay_ratio": 2.4545454545454546,
+    "trip_count": 81,
+    "pct_delayed": 0.925925925925926,
+    "avg_distance": 11.771749382716049,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND410206AAB",
+    "destination_center": "IND000000AFT",
+    "median_delay_ratio": 2.4450549450549453,
+    "trip_count": 72,
+    "pct_delayed": 0.9305555555555556,
+    "avg_distance": 10.529205555555556,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND788026AAC",
+    "destination_center": "IND781018AAB",
+    "median_delay_ratio": 2.44,
+    "trip_count": 149,
+    "pct_delayed": 0.9463087248322148,
+    "avg_distance": 40.64914630872484,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Evening"
+  },
+  {
+    "source_center": "IND712103AAA",
+    "destination_center": "IND712310AAE",
+    "median_delay_ratio": 2.430769230769231,
+    "trip_count": 76,
+    "pct_delayed": 1.0,
+    "avg_distance": 10.698597368421051,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND401209AAB",
+    "destination_center": "IND421302AAH",
+    "median_delay_ratio": 2.4285714285714284,
+    "trip_count": 59,
+    "pct_delayed": 0.9661016949152542,
+    "avg_distance": 11.607698305084746,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Evening"
+  },
+  {
+    "source_center": "IND516115AAA",
+    "destination_center": "IND517501AAB",
+    "median_delay_ratio": 2.4285714285714284,
+    "trip_count": 136,
+    "pct_delayed": 0.9926470588235294,
+    "avg_distance": 11.198588235294118,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND507303AAA",
+    "destination_center": "IND507002AAA",
+    "median_delay_ratio": 2.41875,
+    "trip_count": 72,
+    "pct_delayed": 1.0,
+    "avg_distance": 19.43584583333333,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND832109AAB",
+    "destination_center": "IND834002AAB",
+    "median_delay_ratio": 2.41875,
+    "trip_count": 106,
+    "pct_delayed": 1.0,
+    "avg_distance": 24.936546226415096,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND516101AAA",
+    "destination_center": "IND516115AAA",
+    "median_delay_ratio": 2.4017857142857144,
+    "trip_count": 70,
+    "pct_delayed": 0.9857142857142858,
+    "avg_distance": 9.170305714285716,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND421302AAG",
+    "destination_center": "IND401104AAA",
+    "median_delay_ratio": 2.4,
+    "trip_count": 155,
+    "pct_delayed": 0.9548387096774194,
+    "avg_distance": 14.209333548387097,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Afternoon"
+  },
+  {
+    "source_center": "IND210501AAB",
+    "destination_center": "IND209304AAA",
+    "median_delay_ratio": 2.4,
+    "trip_count": 141,
+    "pct_delayed": 0.8581560283687943,
+    "avg_distance": 13.700030496453902,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND741156AAA",
+    "destination_center": "IND742102AAB",
+    "median_delay_ratio": 2.4,
+    "trip_count": 65,
+    "pct_delayed": 0.9846153846153848,
+    "avg_distance": 8.910695384615385,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND583101AAA",
+    "destination_center": "IND583201AAA",
+    "median_delay_ratio": 2.3693181818181817,
+    "trip_count": 54,
+    "pct_delayed": 1.0,
+    "avg_distance": 21.38842777777778,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND400072AAB",
+    "destination_center": "IND000000AFT",
+    "median_delay_ratio": 2.363636363636364,
+    "trip_count": 134,
+    "pct_delayed": 0.9776119402985076,
+    "avg_distance": 11.32228134328358,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND211002AAB",
+    "destination_center": "IND485001AAC",
+    "median_delay_ratio": 2.359210526315789,
+    "trip_count": 78,
+    "pct_delayed": 1.0,
+    "avg_distance": 30.94473333333333,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Morning"
+  },
+  {
+    "source_center": "IND712311AAA",
+    "destination_center": "IND781018AAB",
+    "median_delay_ratio": 2.3529411764705883,
+    "trip_count": 203,
+    "pct_delayed": 0.9901477832512317,
+    "avg_distance": 44.46697684729064,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Night"
+  },
+  {
+    "source_center": "IND834002AAB",
+    "destination_center": "IND832109AAB",
+    "median_delay_ratio": 2.3508771929824563,
+    "trip_count": 70,
+    "pct_delayed": 0.9857142857142858,
+    "avg_distance": 23.984374285714285,
+    "route_type_dominant": "FTL",
+    "peak_delay_time": "Evening"
+  },
+  {
+    "source_center": "IND600008AAC",
+    "destination_center": "IND600056AAB",
+    "median_delay_ratio": 2.333333333333333,
+    "trip_count": 71,
+    "pct_delayed": 0.8873239436619719,
+    "avg_distance": 9.567602816901408,
+    "route_type_dominant": "Carting",
+    "peak_delay_time": "Night"
+  }
+]

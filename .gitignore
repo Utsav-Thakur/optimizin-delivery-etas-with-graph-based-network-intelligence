@@ -1,0 +1,106 @@
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Python
+# ════════════════════════════════════════════════════════════════
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+.Python
+.python-version
+.venv/
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Jupyter
+# ════════════════════════════════════════════════════════════════
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.nbconvert
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Node / React / Vite
+# ════════════════════════════════════════════════════════════════
+node_modules/
+code/frontend/dist/
+code/frontend/.cache/
+.npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Environment & Secrets
+# ════════════════════════════════════════════════════════════════
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — OS generated
+# ════════════════════════════════════════════════════════════════
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Logs & Temp
+# ════════════════════════════════════════════════════════════════
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.cache/
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — IDE / Editor
+# ════════════════════════════════════════════════════════════════
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.project
+.classpath
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Large model files (optional)
+# Uncomment the lines below if you do NOT want to push trained
+# model binaries to GitHub (add them to Git LFS instead).
+# ════════════════════════════════════════════════════════════════
+# output/models/*.pkl
+# output/models/*.h5
+# output/models/*.joblib
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Large data files (optional)
+# The raw 42 MB CSV may exceed GitHub's 100 MB limit.
+# Uncomment to exclude; store it on Google Drive / S3 instead.
+# ════════════════════════════════════════════════════════════════
+# output/data/raw/delivery_data.csv
+
+# ════════════════════════════════════════════════════════════════
+# DeliveryIQ — Organizer script outputs
+# ════════════════════════════════════════════════════════════════
+organize_project.log

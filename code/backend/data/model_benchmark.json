@@ -1,0 +1,26 @@
+{
+  "Linear Regression": {
+    "MAE": 16.70596596909283,
+    "RMSE": 51.166090806878735,
+    "Within 15%": 24.069584343522706,
+    "Graph Advantage": "N/A"
+  },
+  "Random Forest": {
+    "MAE": 14.803979076497065,
+    "RMSE": 44.5770254726074,
+    "Within 15%": 23.174785673223525,
+    "Graph Advantage": "N/A"
+  },
+  "XGBoost baseline": {
+    "MAE": 14.73206615447998,
+    "RMSE": 44.19311453236027,
+    "Within 15%": 24.591966807468317,
+    "Graph Advantage": "N/A"
+  },
+  "XGBoost + Graph": {
+    "MAE": 12.60654067993164,
+    "RMSE": 36.02829393500596,
+    "Within 15%": 30.24569471868829,
+    "Graph Advantage": "+14.43%"
+  }
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9981,
+    "expected_delay_ratio": 1.75,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Low-betweenness source hub (centrality=0.0000) during the Morning shift: FTL is recommended with 99.8% model confidence. Historical delay intensity on this segment type is 1.75x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9947,
+    "expected_delay_ratio": 1.75,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Morning shift: FTL is recommended with 99.5% model confidence. Historical delay intensity on this segment type is 1.75x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9993,
+    "expected_delay_ratio": 1.75,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a High-betweenness source hub (centrality=0.0024) during the Morning shift: FTL is recommended with 99.9% model confidence. Historical delay intensity on this segment type is 1.75x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9989,
+    "expected_delay_ratio": 1.73,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Low-betweenness source hub (centrality=0.0000) during the Afternoon shift: FTL is recommended with 99.9% model confidence. Historical delay intensity on this segment type is 1.73x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9981,
+    "expected_delay_ratio": 1.73,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Afternoon shift: FTL is recommended with 99.8% model confidence. Historical delay intensity on this segment type is 1.73x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9996,
+    "expected_delay_ratio": 1.73,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a High-betweenness source hub (centrality=0.0024) during the Afternoon shift: FTL is recommended with 100.0% model confidence. Historical delay intensity on this segment type is 1.73x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9895,
+    "expected_delay_ratio": 1.62,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Low-betweenness source hub (centrality=0.0000) during the Evening shift: FTL is recommended with 98.9% model confidence. Historical delay intensity on this segment type is 1.62x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9734,
+    "expected_delay_ratio": 1.62,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Evening shift: FTL is recommended with 97.3% model confidence. Historical delay intensity on this segment type is 1.62x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9997,
+    "expected_delay_ratio": 1.62,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a High-betweenness source hub (centrality=0.0024) during the Evening shift: FTL is recommended with 100.0% model confidence. Historical delay intensity on this segment type is 1.62x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9857,
+    "expected_delay_ratio": 1.71,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Low-betweenness source hub (centrality=0.0000) during the Night shift: FTL is recommended with 98.6% model confidence. Historical delay intensity on this segment type is 1.71x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9271,
+    "expected_delay_ratio": 1.71,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Night shift: FTL is recommended with 92.7% model confidence. Historical delay intensity on this segment type is 1.71x OSRM standard."
+  },
+  {
+    "distance_band": "Short (<50km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9941,
+    "expected_delay_ratio": 1.71,
+    "reasoning_text": "For a Short (<50km) corridor (30km) starting at a High-betweenness source hub (centrality=0.0024) during the Night shift: FTL is recommended with 99.4% model confidence. Historical delay intensity on this segment type is 1.71x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9954,
+    "expected_delay_ratio": 0.9,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Low-betweenness source hub (centrality=0.0000) during the Morning shift: FTL is recommended with 99.5% model confidence. Historical delay intensity on this segment type is 0.90x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9451,
+    "expected_delay_ratio": 0.9,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Morning shift: FTL is recommended with 94.5% model confidence. Historical delay intensity on this segment type is 0.90x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9931,
+    "expected_delay_ratio": 0.9,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a High-betweenness source hub (centrality=0.0024) during the Morning shift: FTL is recommended with 99.3% model confidence. Historical delay intensity on this segment type is 0.90x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9974,
+    "expected_delay_ratio": 0.83,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Low-betweenness source hub (centrality=0.0000) during the Afternoon shift: FTL is recommended with 99.7% model confidence. Historical delay intensity on this segment type is 0.83x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.977,
+    "expected_delay_ratio": 0.83,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Afternoon shift: FTL is recommended with 97.7% model confidence. Historical delay intensity on this segment type is 0.83x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9969,
+    "expected_delay_ratio": 0.83,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a High-betweenness source hub (centrality=0.0024) during the Afternoon shift: FTL is recommended with 99.7% model confidence. Historical delay intensity on this segment type is 0.83x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9987,
+    "expected_delay_ratio": 0.74,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Low-betweenness source hub (centrality=0.0000) during the Evening shift: FTL is recommended with 99.9% model confidence. Historical delay intensity on this segment type is 0.74x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9821,
+    "expected_delay_ratio": 0.74,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Evening shift: FTL is recommended with 98.2% model confidence. Historical delay intensity on this segment type is 0.74x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9964,
+    "expected_delay_ratio": 0.74,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a High-betweenness source hub (centrality=0.0024) during the Evening shift: FTL is recommended with 99.6% model confidence. Historical delay intensity on this segment type is 0.74x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9763,
+    "expected_delay_ratio": 1.0,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Low-betweenness source hub (centrality=0.0000) during the Night shift: FTL is recommended with 97.6% model confidence. Historical delay intensity on this segment type is 1.00x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "Medium",
+    "recommended_route": "Carting",
+    "confidence": 0.7213,
+    "expected_delay_ratio": 1.0,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Night shift: Carting is recommended with 72.1% model confidence. Historical delay intensity on this segment type is 1.00x OSRM standard."
+  },
+  {
+    "distance_band": "Medium (50\u2013200km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.989,
+    "expected_delay_ratio": 1.0,
+    "reasoning_text": "For a Medium (50\u2013200km) corridor (120km) starting at a High-betweenness source hub (centrality=0.0024) during the Night shift: FTL is recommended with 98.9% model confidence. Historical delay intensity on this segment type is 1.00x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9764,
+    "expected_delay_ratio": 1.93,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Low-betweenness source hub (centrality=0.0000) during the Morning shift: FTL is recommended with 97.6% model confidence. Historical delay intensity on this segment type is 1.93x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.8002,
+    "expected_delay_ratio": 1.93,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Morning shift: FTL is recommended with 80.0% model confidence. Historical delay intensity on this segment type is 1.93x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Morning",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9923,
+    "expected_delay_ratio": 1.93,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a High-betweenness source hub (centrality=0.0024) during the Morning shift: FTL is recommended with 99.2% model confidence. Historical delay intensity on this segment type is 1.93x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9982,
+    "expected_delay_ratio": 0.36,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Low-betweenness source hub (centrality=0.0000) during the Afternoon shift: FTL is recommended with 99.8% model confidence. Historical delay intensity on this segment type is 0.36x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9837,
+    "expected_delay_ratio": 0.36,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Afternoon shift: FTL is recommended with 98.4% model confidence. Historical delay intensity on this segment type is 0.36x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Afternoon",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9978,
+    "expected_delay_ratio": 0.36,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a High-betweenness source hub (centrality=0.0024) during the Afternoon shift: FTL is recommended with 99.8% model confidence. Historical delay intensity on this segment type is 0.36x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.9991,
+    "expected_delay_ratio": 0.27,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Low-betweenness source hub (centrality=0.0000) during the Evening shift: FTL is recommended with 99.9% model confidence. Historical delay intensity on this segment type is 0.27x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.9873,
+    "expected_delay_ratio": 0.27,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Evening shift: FTL is recommended with 98.7% model confidence. Historical delay intensity on this segment type is 0.27x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Evening",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.9974,
+    "expected_delay_ratio": 0.27,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a High-betweenness source hub (centrality=0.0024) during the Evening shift: FTL is recommended with 99.7% model confidence. Historical delay intensity on this segment type is 0.27x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "Low",
+    "recommended_route": "FTL",
+    "confidence": 0.983,
+    "expected_delay_ratio": 2.37,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Low-betweenness source hub (centrality=0.0000) during the Night shift: FTL is recommended with 98.3% model confidence. Historical delay intensity on this segment type is 2.37x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "Medium",
+    "recommended_route": "FTL",
+    "confidence": 0.8982,
+    "expected_delay_ratio": 2.37,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a Medium-betweenness source hub (centrality=0.0000) during the Night shift: FTL is recommended with 89.8% model confidence. Historical delay intensity on this segment type is 2.37x OSRM standard."
+  },
+  {
+    "distance_band": "Long (>200km)",
+    "time_of_day": "Night",
+    "betweenness_tier": "High",
+    "recommended_route": "FTL",
+    "confidence": 0.998,
+    "expected_delay_ratio": 2.37,
+    "reasoning_text": "For a Long (>200km) corridor (350km) starting at a High-betweenness source hub (centrality=0.0024) during the Night shift: FTL is recommended with 99.8% model confidence. Historical delay intensity on this segment type is 2.37x OSRM standard."
+  }
+]

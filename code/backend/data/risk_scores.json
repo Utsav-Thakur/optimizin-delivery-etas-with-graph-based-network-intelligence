@@ -1,0 +1,9944 @@
+[
+  {
+    "hub_id": "IND000000AAL",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND411033AAA",
+    "risk_score": 70.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000AAQ",
+    "risk_score": 40.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND700028AAB",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AAS",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND783370AAC",
+    "risk_score": 63.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AAZ",
+    "risk_score": 60.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND444203AAA",
+    "risk_score": 61.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND444303AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000ABA",
+    "risk_score": 21.5,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND683565AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000ABD",
+    "risk_score": 49.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND562132AAA",
+    "risk_score": 65.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000ABG",
+    "risk_score": 40.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND501359AAF",
+    "risk_score": 12.6,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000ACA",
+    "risk_score": 72.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND140406AAA",
+    "risk_score": 51.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND142001AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND142401AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND143001AAA",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND144001AAB",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND144514AAA",
+    "risk_score": 52.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND147301AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND152026AAA",
+    "risk_score": 57.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND160002AAC",
+    "risk_score": 66.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000ACB",
+    "risk_score": 71.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000AEL",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110024AAA",
+    "risk_score": 56.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110030AAD",
+    "risk_score": 40.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110037AAK",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110043AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND110043AAC",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110052AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110064AAA",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND110085AAB",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND110092AAC",
+    "risk_score": 57.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND110095AAB",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND121002AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND121004AAB",
+    "risk_score": 67.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND122001AAA",
+    "risk_score": 67.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122015AAC",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND124103AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND124112AAA",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND125001AAA",
+    "risk_score": 66.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND125005AAA",
+    "risk_score": 66.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND125033AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND127021AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND131028AAB",
+    "risk_score": 63.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201001AAC",
+    "risk_score": 41.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201007AAA",
+    "risk_score": 68.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201301AAF",
+    "risk_score": 70.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201301AAM",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND209304AAA",
+    "risk_score": 70.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND282002AAD",
+    "risk_score": 59.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND301001AAB",
+    "risk_score": 66.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND301705AAA",
+    "risk_score": 60.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND302014AAA",
+    "risk_score": 69.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND302022AAD",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND328001AAA",
+    "risk_score": 44.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND382430AAB",
+    "risk_score": 70.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND390022AAA",
+    "risk_score": 65.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421302AAG",
+    "risk_score": 65.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND462022AAA",
+    "risk_score": 72.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND474003AAA",
+    "risk_score": 63.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND501359AAE",
+    "risk_score": 71.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521225AAB",
+    "risk_score": 64.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600056AAB",
+    "risk_score": 65.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712311AAA",
+    "risk_score": 69.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND751002AAB",
+    "risk_score": 78.3,
+    "tier": "Critical",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND821115AAB",
+    "risk_score": 66.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND834002AAB",
+    "risk_score": 68.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND842001AAA",
+    "risk_score": 70.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000ACK",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000ACN",
+    "risk_score": 45.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000ACT",
+    "risk_score": 43.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000ADM",
+    "risk_score": 38.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND683511AAA",
+    "risk_score": 72.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000ADV",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600044AAC",
+    "risk_score": 12.6,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AEM",
+    "risk_score": 41.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110037AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110064AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AET",
+    "risk_score": 63.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AFF",
+    "risk_score": 45.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND734203AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AFG",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND673027AAB",
+    "risk_score": 20.0,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND673632AAA",
+    "risk_score": 43.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AFJ",
+    "risk_score": 31.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695121AAA",
+    "risk_score": 54.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695572AAB",
+    "risk_score": 32.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AFR",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AFT",
+    "risk_score": 69.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400072AAB",
+    "risk_score": 64.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400701AAA",
+    "risk_score": 58.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400706AAA",
+    "risk_score": 38.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND410206AAA",
+    "risk_score": 51.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND410206AAB",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND410209AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND410210AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110014AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110020AAB",
+    "risk_score": 38.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110037AAM",
+    "risk_score": 71.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND110035AAC",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201301AAD",
+    "risk_score": 38.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND202001AAB",
+    "risk_score": 54.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND226004AAC",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND250002AAC",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND282001AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND282001AAC",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781018AAB",
+    "risk_score": 67.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND811399AAA",
+    "risk_score": 51.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110039AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110078AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110044AAB",
+    "risk_score": 69.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND110005AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110046AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110077AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110083AAA",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110085AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110087AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND110093AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND121001AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND121002AAA",
+    "risk_score": 43.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND121004AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND121004AAC",
+    "risk_score": 38.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND121102AAA",
+    "risk_score": 37.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122001AAD",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122050AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122101AAC",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122001AAJ",
+    "risk_score": 27.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND507123AAA",
+    "risk_score": 57.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122002AAD",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122503AAA",
+    "risk_score": 50.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122004AAA",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND122413AAE",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND123001AAA",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND123401AAB",
+    "risk_score": 61.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND123106AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND124001AAB",
+    "risk_score": 59.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND126102AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND124141AAA",
+    "risk_score": 57.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND124507AAA",
+    "risk_score": 55.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND131028AAE",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND125047AAB",
+    "risk_score": 53.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND125051AAA",
+    "risk_score": 33.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND335501AAA",
+    "risk_score": 51.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND335513AAA",
+    "risk_score": 63.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND335523AAB",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND335524AAA",
+    "risk_score": 9.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND125050AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND125111AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND125104AAA",
+    "risk_score": 62.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND125121AAA",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND126116AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND131301AAA",
+    "risk_score": 59.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND126112AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND127201AAA",
+    "risk_score": 57.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND131021AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND131028AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND132103AAA",
+    "risk_score": 56.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND136118AAA",
+    "risk_score": 58.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND201204AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND244001AAA",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND244235AAA",
+    "risk_score": 64.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND247667AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND247667AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND248001AAA",
+    "risk_score": 63.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND248001AAD",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND249407AAA",
+    "risk_score": 67.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND250002AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND250609AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND250611AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND251001AAA",
+    "risk_score": 53.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND132001AAA",
+    "risk_score": 54.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND132103AAB",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND133004AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND135001AAA",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND134102AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND174103AAA",
+    "risk_score": 59.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND134109AAA",
+    "risk_score": 44.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND134203AAA",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND140501AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND173025AAA",
+    "risk_score": 54.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND136027AAA",
+    "risk_score": 53.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND132039AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND136128AAA",
+    "risk_score": 56.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND140001AAA",
+    "risk_score": 51.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND140118AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND140301AAA",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND140901AAA",
+    "risk_score": 48.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND140401AAA",
+    "risk_score": 52.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND160055AAA",
+    "risk_score": 9.2,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND141003AAB",
+    "risk_score": 32.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND141109AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND142026AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND141010AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND141115AAA",
+    "risk_score": 52.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND151001AAA",
+    "risk_score": 52.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND144001AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND144040AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND144401AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND144601AAA",
+    "risk_score": 57.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND144001AAC",
+    "risk_score": 41.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND144527AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND145001AAA",
+    "risk_score": 32.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176201AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND176303AAA",
+    "risk_score": 48.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND147001AAB",
+    "risk_score": 54.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND147201AAA",
+    "risk_score": 17.2,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND147001AAD",
+    "risk_score": 61.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND148023AAA",
+    "risk_score": 56.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND147101AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND147105AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND148001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND148024AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND148028AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND148101AAA",
+    "risk_score": 21.5,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND148102AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND151103AAA",
+    "risk_score": 42.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND151302AAA",
+    "risk_score": 25.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND151505AAA",
+    "risk_score": 54.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND151506AAA",
+    "risk_score": 23.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND152024AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND152123AAA",
+    "risk_score": 49.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND152101AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND152107AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND152116AAA",
+    "risk_score": 23.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND140603AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND160003AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND160102AAC",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND173212AAA",
+    "risk_score": 60.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND174001AAA",
+    "risk_score": 64.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND174307AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176041AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND181152AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND184104AAA",
+    "risk_score": 61.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND160102AAD",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND160002AAD",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND173220AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND175018AAA",
+    "risk_score": 62.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND174021AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176048AAA",
+    "risk_score": 51.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND174101AAB",
+    "risk_score": 41.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND175001AAA",
+    "risk_score": 61.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND175101AAA",
+    "risk_score": 61.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND175015AAA",
+    "risk_score": 56.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176061AAA",
+    "risk_score": 50.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176110AAB",
+    "risk_score": 50.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND177033AAA",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176215AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176310AAA",
+    "risk_score": 17.2,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND177001AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND177101AAA",
+    "risk_score": 31.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND176001AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND177203AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND184121AAA",
+    "risk_score": 51.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND181152AAB",
+    "risk_score": 55.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND181201AAB",
+    "risk_score": 38.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201001AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND201005AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201007AAB",
+    "risk_score": 44.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND245101AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND245304AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND201301AAL",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND201304AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND203205AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND201307AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND201306AAA",
+    "risk_score": 44.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND205001AAB",
+    "risk_score": 68.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND207123AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND202001AAC",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND204215AAA",
+    "risk_score": 52.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND203001AAA",
+    "risk_score": 39.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND203131AAA",
+    "risk_score": 46.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND203135AAA",
+    "risk_score": 48.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND203390AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND203396AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND204101AAA",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND207001AAA",
+    "risk_score": 25.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND205135AAA",
+    "risk_score": 52.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND209625AAA",
+    "risk_score": 63.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND209721AAB",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND283203AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND206001AAA",
+    "risk_score": 49.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND206122AAA",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND207302AAA",
+    "risk_score": 58.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND207247AAB",
+    "risk_score": 63.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND208006AAA",
+    "risk_score": 38.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND208012AAA",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND208017AAA",
+    "risk_score": 42.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND208019AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND209101AAA",
+    "risk_score": 30.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND209111AAA",
+    "risk_score": 61.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND285001AAD",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND209206AAB",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND210301AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND209801AAA",
+    "risk_score": 40.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND211002AAB",
+    "risk_score": 68.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND212601AAA",
+    "risk_score": 56.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND221313AAA",
+    "risk_score": 75.9,
+    "tier": "Critical",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND241124AAB",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND210001AAA",
+    "risk_score": 55.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND210427AAA",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND210431AAA",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND210501AAB",
+    "risk_score": 39.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND211011AAA",
+    "risk_score": 56.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND211013AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND485001AAC",
+    "risk_score": 68.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND211008AAA",
+    "risk_score": 45.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND211010AAB",
+    "risk_score": 40.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND212501AAA",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND212402AAA",
+    "risk_score": 62.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND221010AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND221005A1A",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND221010AAB",
+    "risk_score": 84.0,
+    "tier": "Critical",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND222001AAA",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND232101AAB",
+    "risk_score": 66.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND233001AAA",
+    "risk_score": 64.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND221303AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND231001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND221401AAA",
+    "risk_score": 56.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND222136AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND276128AAA",
+    "risk_score": 58.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND221706AAA",
+    "risk_score": 59.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND273014AAB",
+    "risk_score": 59.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND222125AAB",
+    "risk_score": 46.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND223101AAB",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND224001AAA",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND224141AAB",
+    "risk_score": 45.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND224122AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND226004AAA",
+    "risk_score": 41.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND226016AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND226024AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND231205AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND231216AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND231208AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND231217AAA",
+    "risk_score": 46.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND231225AAB",
+    "risk_score": 46.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND486886AAA",
+    "risk_score": 46.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND232104AAB",
+    "risk_score": 67.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND232327AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND233221AAC",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND275101AAA",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND275503AAA",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND242001AAA",
+    "risk_score": 63.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND242307AAB",
+    "risk_score": 63.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND242221AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND243001AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND243503AAB",
+    "risk_score": 53.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244901AAB",
+    "risk_score": 70.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND243002AAA",
+    "risk_score": 51.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND243201AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND262001AAA",
+    "risk_score": 59.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND243301AAB",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244901AAC",
+    "risk_score": 45.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND263153AAB",
+    "risk_score": 66.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND244221AAA",
+    "risk_score": 64.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244301AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244412AAA",
+    "risk_score": 29.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244501AAA",
+    "risk_score": 7.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244601AAB",
+    "risk_score": 21.2,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244713AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND244715AAA",
+    "risk_score": 35.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND263401AAA",
+    "risk_score": 55.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND244921AAB",
+    "risk_score": 57.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246725AAB",
+    "risk_score": 61.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246001AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND249201AAA",
+    "risk_score": 62.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246149AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND246174AAA",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246444AAB",
+    "risk_score": 52.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246424AAA",
+    "risk_score": 44.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246701AAA",
+    "risk_score": 61.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246763AAA",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND246761AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND247554AAA",
+    "risk_score": 51.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND247776AAA",
+    "risk_score": 54.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND251309AAB",
+    "risk_score": 54.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND248122AAB",
+    "risk_score": 50.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND248197AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND250221AAA",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND251201AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND261001AAA",
+    "risk_score": 45.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND262701AAA",
+    "risk_score": 46.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND261201AAB",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND262122AAB",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND262405AAA",
+    "risk_score": 40.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND262501AAA",
+    "risk_score": 55.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND262802AAA",
+    "risk_score": 45.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND262723AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND263002AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND263645AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND263139AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND263601AAA",
+    "risk_score": 41.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND271001AAA",
+    "risk_score": 57.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND271201AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND271210AAA",
+    "risk_score": 47.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND272001AAA",
+    "risk_score": 54.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND272175AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND272155AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND272207AAB",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND272153AAC",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND273155AAA",
+    "risk_score": 48.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND273304AAA",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND274001AAA",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND274301AAB",
+    "risk_score": 63.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND277303AAC",
+    "risk_score": 47.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND273303AAA",
+    "risk_score": 44.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND274509AAB",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND274304AAA",
+    "risk_score": 40.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND274304AAB",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND274402AAA",
+    "risk_score": 49.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND275303AAA",
+    "risk_score": 57.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND276140AAA",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND276305AAA",
+    "risk_score": 56.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND276129AAA",
+    "risk_score": 48.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND277201AAA",
+    "risk_score": 57.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND277211AAA",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND281121AAB",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND281401AAA",
+    "risk_score": 26.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND321022AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND282001AAF",
+    "risk_score": 39.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND283122AAB",
+    "risk_score": 41.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND281004AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND282005AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND284001AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND284403AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND472001AAA",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND285205AAB",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND321001AAB",
+    "risk_score": 42.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND321606AAA",
+    "risk_score": 45.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND301019AAA",
+    "risk_score": 41.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND302004AAA",
+    "risk_score": 49.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND302014AAB",
+    "risk_score": 47.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND302033AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND302006AAA",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND302006AAC",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303702AAB",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND305001AAC",
+    "risk_score": 66.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND306401AAB",
+    "risk_score": 66.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND313001AAB",
+    "risk_score": 66.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND332404AAA",
+    "risk_score": 66.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND302020AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND302023AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND302026AAA",
+    "risk_score": 40.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND303008AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303301AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303303AAA",
+    "risk_score": 50.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND303603AAB",
+    "risk_score": 48.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND303901AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND304001AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303002AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303338AAB",
+    "risk_score": 18.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303106AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303108AAB",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND322230AAA",
+    "risk_score": 48.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND303503AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND332001AAB",
+    "risk_score": 70.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND322001AAC",
+    "risk_score": 47.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND305802AAA",
+    "risk_score": 60.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND305901AAA",
+    "risk_score": 59.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND342602AAC",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND305404AAA",
+    "risk_score": 64.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND305601AAC",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND305624AAA",
+    "risk_score": 66.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND341512AAA",
+    "risk_score": 60.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND306116AAA",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND306001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND306304AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND311302AAA",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND342005AAD",
+    "risk_score": 67.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND343001AAA",
+    "risk_score": 61.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND306902AAA",
+    "risk_score": 56.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND307001AAA",
+    "risk_score": 58.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND311001AAA",
+    "risk_score": 32.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND313324AAA",
+    "risk_score": 61.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND311301AAA",
+    "risk_score": 40.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND312001AAA",
+    "risk_score": 61.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND312601AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND312403AAA",
+    "risk_score": 53.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND458664AAA",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND312605AAB",
+    "risk_score": 61.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND458001AAB",
+    "risk_score": 52.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND327001AAB",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND321001AAA",
+    "risk_score": 35.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND321401AAB",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND321408AAB",
+    "risk_score": 41.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND322201AAA",
+    "risk_score": 50.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND322241AAA",
+    "risk_score": 48.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND331022A1B",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND331001A1C",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND331023AAA",
+    "risk_score": 27.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND331304AAA",
+    "risk_score": 57.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND331507AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND331701AAA",
+    "risk_score": 50.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND333001AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND333028AAA",
+    "risk_score": 46.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND333031AAA",
+    "risk_score": 60.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND333042AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND334001AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND334001AAC",
+    "risk_score": 65.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND332713AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND332709AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND332715AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND333502AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND333504AAA",
+    "risk_score": 59.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND334803AAA",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND341001AAC",
+    "risk_score": 63.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND335001AAA",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND335051AAA",
+    "risk_score": 59.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND335803AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND335804AAD",
+    "risk_score": 30.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND335701AAA",
+    "risk_score": 31.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND335703AAA",
+    "risk_score": 7.2,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND341030AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND341303AAA",
+    "risk_score": 65.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND341306AAA",
+    "risk_score": 63.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND341503AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND341510AAB",
+    "risk_score": 61.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND341505AAA",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND342601AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND342902A1B",
+    "risk_score": 63.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND342902AAA",
+    "risk_score": 50.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND344022AAB",
+    "risk_score": 62.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND342301AAA",
+    "risk_score": 65.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND343029AAB",
+    "risk_score": 60.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND344001AAA",
+    "risk_score": 49.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND345001AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND345021AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360003AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND360311AAA",
+    "risk_score": 44.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360050AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360370AAA",
+    "risk_score": 47.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360410AAA",
+    "risk_score": 47.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360490AAA",
+    "risk_score": 47.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND362001AAA",
+    "risk_score": 50.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND360510AAB",
+    "risk_score": 47.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND360530AAB",
+    "risk_score": 47.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360575AAA",
+    "risk_score": 47.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND361001AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND361305AAC",
+    "risk_score": 47.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND361315AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND361335AAA",
+    "risk_score": 47.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND360002AAB",
+    "risk_score": 12.6,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND362220AAA",
+    "risk_score": 48.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND362265AAA",
+    "risk_score": 52.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND362150AAA",
+    "risk_score": 48.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND362225AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND362720AAA",
+    "risk_score": 48.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND362560AAA",
+    "risk_score": 48.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363001AAA",
+    "risk_score": 15.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363421AAB",
+    "risk_score": 45.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363310AAB",
+    "risk_score": 33.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363330AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND364710AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363520AAC",
+    "risk_score": 9.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363621AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND363641AAA",
+    "risk_score": 40.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND364004AAB",
+    "risk_score": 59.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND365560AAA",
+    "risk_score": 56.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND364270AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND364001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND364290AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND365560AAB",
+    "risk_score": 54.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND370001AAA",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND370110AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND370201AAA",
+    "risk_score": 61.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND370615AAB",
+    "risk_score": 40.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND380005AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND382421AAA",
+    "risk_score": 54.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND382721AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND380006AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND380006AAB",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND380021AAA",
+    "risk_score": 40.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND380054AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND380015AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND382345AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND384205AAA",
+    "risk_score": 59.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND387620AAB",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND388320AAA",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND389001AAA",
+    "risk_score": 56.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND395023AAA",
+    "risk_score": 65.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND382715AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND383001AAA",
+    "risk_score": 25.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND383315AAC",
+    "risk_score": 26.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND383255AAB",
+    "risk_score": 7.2,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND384170AAA",
+    "risk_score": 58.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND384265AAB",
+    "risk_score": 29.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND384355AAB",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND385001AAA",
+    "risk_score": 53.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND385320AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND385340AAB",
+    "risk_score": 28.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND385535AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND387001AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND388220AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND389230AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND388121AAA",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND388620AAB",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND389151AAA",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND457661AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND390018AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND390020AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND391110AAD",
+    "risk_score": 56.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND395001AAA",
+    "risk_score": 39.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND395023AAD",
+    "risk_score": 48.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND395004AAB",
+    "risk_score": 38.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND395006AAA",
+    "risk_score": 44.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND395009AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND395010AAB",
+    "risk_score": 8.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND394221AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396191AAC",
+    "risk_score": 65.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396445AAA",
+    "risk_score": 47.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396001AAA",
+    "risk_score": 47.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396105AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396191AAB",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND396210AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396232AAA",
+    "risk_score": 37.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396321AAA",
+    "risk_score": 47.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND396580AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400011AAA",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND400072AAD",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400015AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400015AAB",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400016AAA",
+    "risk_score": 8.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400016AAB",
+    "risk_score": 41.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND400037AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND400072AAJ",
+    "risk_score": 57.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400064AAB",
+    "risk_score": 41.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND400072AAA",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400701AAB",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND401104AAA",
+    "risk_score": 58.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND401104AAB",
+    "risk_score": 39.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421302AAR",
+    "risk_score": 63.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND421302AAS",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400072AAC",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400072AAI",
+    "risk_score": 42.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND000000AFS",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400102AAB",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND400102AAC",
+    "risk_score": 55.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND400052AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400612AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400705AAA",
+    "risk_score": 52.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421302AAH",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND401208AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND401209AAA",
+    "risk_score": 38.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND401209AAB",
+    "risk_score": 43.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND401501AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND401602AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND402107AAA",
+    "risk_score": 44.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND402109AAA",
+    "risk_score": 44.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND402301AAA",
+    "risk_score": 44.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND403002AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND403726AAB",
+    "risk_score": 29.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND403401AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND403507AAA",
+    "risk_score": 38.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND403507AAB",
+    "risk_score": 46.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND403601AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND403702AAA",
+    "risk_score": 61.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND575004AAB",
+    "risk_score": 66.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581314AAA",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND403726AAA",
+    "risk_score": 68.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND416510AAA",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581303AAA",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581400AAB",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND410401AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND410501AAF",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND410503AAA",
+    "risk_score": 38.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND410505AAB",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411014AAA",
+    "risk_score": 62.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411043AAA",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411048AAA",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411017AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND412105AAC",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND411021AAA",
+    "risk_score": 8.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411036AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413002AAA",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND413501AAA",
+    "risk_score": 53.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND414001AAA",
+    "risk_score": 62.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND416012AAA",
+    "risk_score": 64.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431136AAC",
+    "risk_score": 64.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND431603AAA",
+    "risk_score": 64.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND580028AAA",
+    "risk_score": 68.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411033AAB",
+    "risk_score": 40.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND411057AAF",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND412210AAC",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND412803AAB",
+    "risk_score": 21.5,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421802AAA",
+    "risk_score": 50.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413304AAA",
+    "risk_score": 60.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413307AAC",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND415301AAB",
+    "risk_score": 52.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413307AAB",
+    "risk_score": 50.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413401AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND413517AAA",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND431717AAA",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413531AAA",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND413709AAA",
+    "risk_score": 41.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND423109AAA",
+    "risk_score": 50.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND423601AAA",
+    "risk_score": 50.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND423701AAB",
+    "risk_score": 64.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND414203AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND414302AAB",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND414502AAA",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431107AAB",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND415003AAA",
+    "risk_score": 43.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND415124AAA",
+    "risk_score": 30.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND415605AAA",
+    "risk_score": 60.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND415408AAC",
+    "risk_score": 50.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND415409AAB",
+    "risk_score": 60.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND415709AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND415612AAA",
+    "risk_score": 52.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND416122AAA",
+    "risk_score": 59.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591237AAB",
+    "risk_score": 61.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND416404AAA",
+    "risk_score": 63.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND416602AAC",
+    "risk_score": 53.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND416606AAA",
+    "risk_score": 45.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND421301AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND421302AAF",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND400078AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421401AAC",
+    "risk_score": 52.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND422011AAD",
+    "risk_score": 60.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND444005AAB",
+    "risk_score": 63.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421302AAN",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND421004AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421601AAB",
+    "risk_score": 50.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND421502AAA",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND422103AAC",
+    "risk_score": 57.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND422605AAA",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND423105AAA",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND423106AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND423301AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND424006AAA",
+    "risk_score": 68.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND424101AAA",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND424304AAC",
+    "risk_score": 40.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND425401AAA",
+    "risk_score": 47.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND425405AAA",
+    "risk_score": 50.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND425412AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND452001AAC",
+    "risk_score": 56.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431103AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND424201AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND425109AAA",
+    "risk_score": 22.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND425201AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND425508AAB",
+    "risk_score": 49.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND425409AAA",
+    "risk_score": 58.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND425406AAA",
+    "risk_score": 47.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND450331AAA",
+    "risk_score": 45.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND431001AAB",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431112AAB",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431122AAA",
+    "risk_score": 58.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431127AAA",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND431131AAB",
+    "risk_score": 40.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431203AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND431514AAA",
+    "risk_score": 62.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431515AAA",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431517AAB",
+    "risk_score": 62.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND431401AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND431708AAA",
+    "risk_score": 62.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND441206AAB",
+    "risk_score": 41.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND441603AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND442605AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND441614AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND481001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND441904AAB",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND441912AAA",
+    "risk_score": 44.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND441107AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND442001AAA",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND442101AAB",
+    "risk_score": 45.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND445001AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND443201AAA",
+    "risk_score": 51.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND443301AAA",
+    "risk_score": 52.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND444602AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND445101AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND440014AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND451666AAA",
+    "risk_score": 41.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND454001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND457001AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND457226AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND458990AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND460001AAA",
+    "risk_score": 56.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND480334AAA",
+    "risk_score": 52.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND461001AAA",
+    "risk_score": 61.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND461111AAA",
+    "risk_score": 59.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND462001AAA",
+    "risk_score": 53.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND462011AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND462021AAA",
+    "risk_score": 39.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND462042AAA",
+    "risk_score": 38.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND465669AAB",
+    "risk_score": 60.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND466001AAA",
+    "risk_score": 51.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND842003AAB",
+    "risk_score": 70.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND464001AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND464221AAA",
+    "risk_score": 53.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND470004AAA",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND464668AAA",
+    "risk_score": 64.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND465001AAA",
+    "risk_score": 43.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND465333A1B",
+    "risk_score": 23.3,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND465333AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND465683AAA",
+    "risk_score": 60.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND466116AAA",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND470113AAA",
+    "risk_score": 45.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND470117AAA",
+    "risk_score": 47.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND473443AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND470227AAB",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND471001AAA",
+    "risk_score": 58.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND473001AAA",
+    "risk_score": 44.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND473331AAA",
+    "risk_score": 51.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND473226AAA",
+    "risk_score": 41.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND473551AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND475661AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND476001AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND476111AAA",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND477001AAA",
+    "risk_score": 38.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND477001AAB",
+    "risk_score": 54.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND480001AAA",
+    "risk_score": 48.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND480661AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND481661AAA",
+    "risk_score": 59.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND480106AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND480886AAA",
+    "risk_score": 52.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND482002AAA",
+    "risk_score": 40.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND483225AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND483501AAA",
+    "risk_score": 56.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND483770AAA",
+    "risk_score": 54.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND484001AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND484224AAA",
+    "risk_score": 7.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND484446AAA",
+    "risk_score": 31.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND484551AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND484661AAE",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND485771AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND486001AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND486771AAA",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND488001AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND486661AAA",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND486889AAA",
+    "risk_score": 48.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND487001AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND487551AAA",
+    "risk_score": 66.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND487001AAB",
+    "risk_score": 64.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND491001AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND494334AAB",
+    "risk_score": 45.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND492001AAB",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND492007AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND493118AAC",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND495334AAB",
+    "risk_score": 14.3,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND493445AAB",
+    "risk_score": 49.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND490023AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND495004AAA",
+    "risk_score": 41.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND495671AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND491995AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND495677AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND496001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500008AAC",
+    "risk_score": 55.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500084AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500008AAD",
+    "risk_score": 40.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500008AAF",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500039AAC",
+    "risk_score": 66.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500010AAA",
+    "risk_score": 61.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500055AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND501401AAC",
+    "risk_score": 55.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500010AAB",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500018AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500080AAB",
+    "risk_score": 52.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500032AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND502295AAA",
+    "risk_score": 50.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500035AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500039AAB",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND501301AAC",
+    "risk_score": 50.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500035AAD",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508116AAA",
+    "risk_score": 42.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND500039AAD",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500050AAA",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND501218AAC",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND500055AAC",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND501101AAB",
+    "risk_score": 56.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND509216AAC",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND501141AAA",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND503111AAC",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505001AAB",
+    "risk_score": 70.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND506002AAA",
+    "risk_score": 54.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508252AAB",
+    "risk_score": 53.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND509001AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND509358AAA",
+    "risk_score": 60.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND515004AAA",
+    "risk_score": 64.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND518002AAA",
+    "risk_score": 68.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND523002AAA",
+    "risk_score": 65.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND533106AAA",
+    "risk_score": 64.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND585104AAA",
+    "risk_score": 64.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND501359AAG",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND502110AAA",
+    "risk_score": 59.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND502313AAA",
+    "risk_score": 59.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND502220AAC",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND502286AAB",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND503185AAA",
+    "risk_score": 60.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND503122AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND503187AAA",
+    "risk_score": 60.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND504201AAA",
+    "risk_score": 46.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505184AAC",
+    "risk_score": 29.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND504208AAB",
+    "risk_score": 47.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND504251AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND504215AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505326AAB",
+    "risk_score": 49.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND504293AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND504296AAA",
+    "risk_score": 42.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505001AAA",
+    "risk_score": 41.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505302AAB",
+    "risk_score": 42.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505327AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505172AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505209AAA",
+    "risk_score": 51.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505122AAA",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505325AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505326AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505425AAA",
+    "risk_score": 64.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND505467AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND505503AAA",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND506164AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND506001AAC",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND506132AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND506143AAA",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND506343AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND506167AAB",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND506169AAB",
+    "risk_score": 26.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND506314AAA",
+    "risk_score": 58.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND507002AAA",
+    "risk_score": 63.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND507117AAB",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND507159AAA",
+    "risk_score": 23.5,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND507167AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508001AAA",
+    "risk_score": 63.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND508206AAA",
+    "risk_score": 47.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508207AAB",
+    "risk_score": 53.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND508213AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND507111AAA",
+    "risk_score": 26.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND507303AAA",
+    "risk_score": 56.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508223AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508277AAB",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND508248AAB",
+    "risk_score": 59.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND508377AAB",
+    "risk_score": 57.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND509203AAA",
+    "risk_score": 54.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND509103AAB",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND509103AAC",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND509124AAA",
+    "risk_score": 55.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND584101AAA",
+    "risk_score": 60.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND509301AAA",
+    "risk_score": 56.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND509324AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515401AAB",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515411AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND515671AAA",
+    "risk_score": 64.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515801AAA",
+    "risk_score": 57.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515134AAA",
+    "risk_score": 63.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND515201AAA",
+    "risk_score": 58.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515591AAA",
+    "risk_score": 64.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515301AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND561202AAB",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND516360AAB",
+    "risk_score": 57.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND516269AAA",
+    "risk_score": 62.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND515761AAA",
+    "risk_score": 59.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND515865AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND516001AAA",
+    "risk_score": 57.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND516227AAA",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND516101AAA",
+    "risk_score": 47.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND516115AAA",
+    "risk_score": 46.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND517501AAB",
+    "risk_score": 47.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND516390AAA",
+    "risk_score": 62.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND517325AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND517408AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND517583AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND517644AAA",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND524132AAA",
+    "risk_score": 46.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND518206AAA",
+    "risk_score": 51.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND518401AAA",
+    "risk_score": 56.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND518501AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND518102AAA",
+    "risk_score": 54.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND518124AAA",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND518222AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND518422AAB",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND520011AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521185AAA",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521001AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND521165AAA",
+    "risk_score": 40.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521105AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521333AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND534001AAA",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521201AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND521301AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND522647AAA",
+    "risk_score": 57.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND523201AAA",
+    "risk_score": 58.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND523105AAA",
+    "risk_score": 26.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND523226AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND523230AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND523316AAB",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND524201AAA",
+    "risk_score": 53.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND524003AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND524101AAB",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND530012AAA",
+    "risk_score": 67.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND530043AAA",
+    "risk_score": 53.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND531001AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND531036AAA",
+    "risk_score": 52.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND531162AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND532001AAB",
+    "risk_score": 66.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND535001AAA",
+    "risk_score": 56.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND764001AAC",
+    "risk_score": 63.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND764020AAC",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND530012AAC",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND530018AAA",
+    "risk_score": 40.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND530026AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND531163AAA",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND531116AAA",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND532127AAA",
+    "risk_score": 61.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND532201AAA",
+    "risk_score": 58.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND532421AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND535591AAA",
+    "risk_score": 60.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND532222AAA",
+    "risk_score": 40.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND761200AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND532440AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND533003AAA",
+    "risk_score": 51.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND533401AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND533201AAA",
+    "risk_score": 52.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND533242AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND533262AAA",
+    "risk_score": 53.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND533308AAB",
+    "risk_score": 44.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND534260AAC",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND535501AAB",
+    "risk_score": 61.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND535558AAA",
+    "risk_score": 60.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560002AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND560099AAB",
+    "risk_score": 67.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560027AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560099AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560043AAC",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND560064AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560048AAB",
+    "risk_score": 58.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560058AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND560060AAB",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560058AAD",
+    "risk_score": 42.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND560064AAD",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560067AAC",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND562114AAA",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560077AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560078AAC",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560083AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND560085AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000ACS",
+    "risk_score": 14.5,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560300AAA",
+    "risk_score": 66.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND632006AAA",
+    "risk_score": 64.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND635001AAA",
+    "risk_score": 51.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND683511AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560099AAG",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560099AAH",
+    "risk_score": 8.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND562125AAA",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND563101AAB",
+    "risk_score": 57.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND563130AAA",
+    "risk_score": 20.5,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND563131AAB",
+    "risk_score": 61.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND560300AAB",
+    "risk_score": 49.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND563116AAA",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND563125AAB",
+    "risk_score": 56.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND561203AAB",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND562101AAA",
+    "risk_score": 28.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND561207AAB",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND562108AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND572101AAA",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND562117AAA",
+    "risk_score": 20.3,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND560066AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND570020AAA",
+    "risk_score": 65.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND573201AAB",
+    "risk_score": 66.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND577002AAA",
+    "risk_score": 64.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577501AAA",
+    "risk_score": 51.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND577598AAC",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND583101AAA",
+    "risk_score": 65.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND562132AAC",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND562159AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND563131AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND571301AAA",
+    "risk_score": 59.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND571430AAA",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571602AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571104AAA",
+    "risk_score": 59.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND573142AAA",
+    "risk_score": 65.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577598AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND571105AAA",
+    "risk_score": 43.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571114AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND571213AAA",
+    "risk_score": 48.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571111AAB",
+    "risk_score": 56.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND571313AAB",
+    "risk_score": 53.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571124AAA",
+    "risk_score": 48.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571440AAA",
+    "risk_score": 16.7,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND571401AAA",
+    "risk_score": 14.3,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND562160AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571426AAA",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571432AAB",
+    "risk_score": 58.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND571438AAB",
+    "risk_score": 9.3,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND572201AAB",
+    "risk_score": 52.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND573103AAA",
+    "risk_score": 50.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND577101AAA",
+    "risk_score": 57.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577116AAA",
+    "risk_score": 18.6,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND573116AAA",
+    "risk_score": 65.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND573134AAB",
+    "risk_score": 61.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND574104AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND574216AAA",
+    "risk_score": 57.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND574117AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND576101AAA",
+    "risk_score": 55.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND576201AAA",
+    "risk_score": 58.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND574202AAA",
+    "risk_score": 56.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND574239AAA",
+    "risk_score": 54.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND574211AAA",
+    "risk_score": 62.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND574221AAA",
+    "risk_score": 54.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND574227AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND575014AAA",
+    "risk_score": 48.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND671323AAD",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581320AAA",
+    "risk_score": 59.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581110AAE",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND581115AAC",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577132AAD",
+    "risk_score": 53.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577126AAA",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577201AAA",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577432AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577401AAA",
+    "risk_score": 24.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577522AAA",
+    "risk_score": 61.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND577535AAC",
+    "risk_score": 61.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND580002AAA",
+    "risk_score": 40.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581402AAA",
+    "risk_score": 62.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND590016AAA",
+    "risk_score": 53.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591115AAB",
+    "risk_score": 44.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591123AAC",
+    "risk_score": 58.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581119AAB",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND581325AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND581334AAA",
+    "risk_score": 58.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND581343AAC",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND582101AAB",
+    "risk_score": 59.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND582209AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND583201AAA",
+    "risk_score": 61.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND583119AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND583227AAA",
+    "risk_score": 53.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND583231AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND584123AAA",
+    "risk_score": 56.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND584128AAA",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND583121AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND585211AAA",
+    "risk_score": 49.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND585307AAB",
+    "risk_score": 51.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND585314AAA",
+    "risk_score": 49.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND585330AAE",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND586128AAA",
+    "risk_score": 51.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND585222AAA",
+    "risk_score": 45.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND586211AAA",
+    "risk_score": 45.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND585401AAA",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND586101AAA",
+    "risk_score": 37.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND586101AAB",
+    "risk_score": 61.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND587103AAB",
+    "risk_score": 59.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591302AAB",
+    "risk_score": 51.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591102AAA",
+    "risk_score": 50.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND591307AAC",
+    "risk_score": 59.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND591126AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591201AAA",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND591304AAA",
+    "risk_score": 53.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND580030AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600004AAA",
+    "risk_score": 38.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600008AAC",
+    "risk_score": 58.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600008AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600013AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600016AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600119AAA",
+    "risk_score": 52.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600016AAB",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600016AAC",
+    "risk_score": 57.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600032AAB",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600044AAD",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600076AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600048AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND603001AAA",
+    "risk_score": 21.6,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND603203AAA",
+    "risk_score": 35.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600044AAE",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600056AAA",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND602105AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600110AAA",
+    "risk_score": 54.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND600116AAB",
+    "risk_score": 64.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND605010AAB",
+    "risk_score": 56.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND605601AAA",
+    "risk_score": 63.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND631501AAA",
+    "risk_score": 54.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND635802AAB",
+    "risk_score": 64.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600073AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600083AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND600056AAD",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND602024AAA",
+    "risk_score": 53.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND602001AAA",
+    "risk_score": 43.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND602001AAB",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND609001AAA",
+    "risk_score": 45.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND603301AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND603102AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND604303AAA",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND607001AAA",
+    "risk_score": 62.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND607106AAA",
+    "risk_score": 60.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND636102AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND606003AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND606105AAA",
+    "risk_score": 59.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND606201AAC",
+    "risk_score": 59.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND606801AAB",
+    "risk_score": 54.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND606803AAA",
+    "risk_score": 54.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND608001AAA",
+    "risk_score": 62.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND607801AAA",
+    "risk_score": 60.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND609110AAA",
+    "risk_score": 62.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND608301AAA",
+    "risk_score": 46.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND639104AAB",
+    "risk_score": 15.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND614018AAA",
+    "risk_score": 45.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND609602AAA",
+    "risk_score": 62.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND611001AAA",
+    "risk_score": 62.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND610001AAA",
+    "risk_score": 63.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND614715AAA",
+    "risk_score": 51.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND613104AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND614602AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND614804AAA",
+    "risk_score": 45.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND614616AAA",
+    "risk_score": 46.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND630002AAA",
+    "risk_score": 45.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND614620AAA",
+    "risk_score": 47.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND630561AAA",
+    "risk_score": 49.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND614809AAA",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND620020AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND621112AAA",
+    "risk_score": 46.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND621010AAA",
+    "risk_score": 46.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND621212AAA",
+    "risk_score": 48.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND620012AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND621211AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND621704AAA",
+    "risk_score": 16.4,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND621306AAA",
+    "risk_score": 9.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND625106AAA",
+    "risk_score": 46.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND621802AAA",
+    "risk_score": 48.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND622407AAA",
+    "risk_score": 45.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND622001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND623315AAB",
+    "risk_score": 46.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND623407AAA",
+    "risk_score": 15.3,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND623503AAA",
+    "risk_score": 18.0,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND623526AAA",
+    "risk_score": 18.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND623704AAA",
+    "risk_score": 48.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND623701AAA",
+    "risk_score": 17.7,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND626607AAB",
+    "risk_score": 48.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND624001AAA",
+    "risk_score": 50.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND624619AAA",
+    "risk_score": 50.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND624703AAA",
+    "risk_score": 49.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND625008AAA",
+    "risk_score": 52.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND624101AAA",
+    "risk_score": 16.4,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND624202AAA",
+    "risk_score": 47.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND625218AAA",
+    "risk_score": 47.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND624601AAA",
+    "risk_score": 35.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND625516AAA",
+    "risk_score": 48.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND626123AAA",
+    "risk_score": 48.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND685514AAA",
+    "risk_score": 50.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND625531AAA",
+    "risk_score": 44.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND625532AAA",
+    "risk_score": 41.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND626117AAA",
+    "risk_score": 47.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND626138AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND627756AAA",
+    "risk_score": 48.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND627005AAA",
+    "risk_score": 42.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND627117AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND627811AAA",
+    "risk_score": 46.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND628801AAA",
+    "risk_score": 46.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND629001AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND627401AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND627657AAA",
+    "risk_score": 16.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND628613AAA",
+    "risk_score": 47.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND628204AAA",
+    "risk_score": 16.8,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND629179AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND631003AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND631102AAA",
+    "risk_score": 49.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND632301AAA",
+    "risk_score": 57.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND632402AAA",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND636705AAB",
+    "risk_score": 35.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND635207AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND635601AAB",
+    "risk_score": 54.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND636005AAA",
+    "risk_score": 41.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND636005AAC",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND636016AAA",
+    "risk_score": 31.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND636402AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND637211AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND636352AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND637301AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND638001AAA",
+    "risk_score": 44.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND637408AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND637001AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND638052AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND638401AAA",
+    "risk_score": 17.6,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND638452AAA",
+    "risk_score": 17.6,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND638501AAB",
+    "risk_score": 47.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND641062AAD",
+    "risk_score": 50.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND638657AAA",
+    "risk_score": 48.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND638701AAA",
+    "risk_score": 48.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND641607AAA",
+    "risk_score": 50.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND639001AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND641001AAA",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND641006AAD",
+    "risk_score": 42.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND641008AAA",
+    "risk_score": 18.7,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND641011AAA",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND642001AAA",
+    "risk_score": 46.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND642126AAA",
+    "risk_score": 39.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND643217AAA",
+    "risk_score": 19.8,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND643231AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND641654AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND641664AAA",
+    "risk_score": 50.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND643001AAA",
+    "risk_score": 48.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND643212AAA",
+    "risk_score": 48.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND670643AAA",
+    "risk_score": 61.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND670645AAB",
+    "risk_score": 53.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND673592AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND671315AAA",
+    "risk_score": 41.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND000000ACO",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND673104AAA",
+    "risk_score": 60.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND673305AAA",
+    "risk_score": 9.0,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND673506AAA",
+    "risk_score": 58.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND673121AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND673573AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND676306AAA",
+    "risk_score": 48.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND676509AAA",
+    "risk_score": 34.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND678583AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND679322AAA",
+    "risk_score": 46.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND678683AAA",
+    "risk_score": 21.7,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND679303AAA",
+    "risk_score": 58.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND679531AAA",
+    "risk_score": 57.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND673639AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND679329AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND680587AAA",
+    "risk_score": 59.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND680012AAA",
+    "risk_score": 58.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND68004AAA",
+    "risk_score": 56.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND680104AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND679576AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND680307AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND680712AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND686028AAB",
+    "risk_score": 63.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND683572AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND686632AAA",
+    "risk_score": 53.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND689101AAA",
+    "risk_score": 60.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND686507AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND686513AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND686540AAA",
+    "risk_score": 48.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND686141AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND688009AAA",
+    "risk_score": 47.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND688524AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND689650AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND690548AAA",
+    "risk_score": 54.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND689503AAB",
+    "risk_score": 50.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND689645AAA",
+    "risk_score": 7.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND691551AAA",
+    "risk_score": 61.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND690537AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND691001AAB",
+    "risk_score": 60.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND690573AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND691506AAA",
+    "risk_score": 47.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695012AAA",
+    "risk_score": 53.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND691305AAA",
+    "risk_score": 55.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND691574AAA",
+    "risk_score": 49.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND695614AAA",
+    "risk_score": 54.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695101AAB",
+    "risk_score": 38.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695012AAB",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695541AAA",
+    "risk_score": 59.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND695582AAA",
+    "risk_score": 10.9,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND695609AAA",
+    "risk_score": 56.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND700026AAC",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND700065AAA",
+    "risk_score": 38.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND700053AAA",
+    "risk_score": 67.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND700136AAB",
+    "risk_score": 38.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND700144AAA",
+    "risk_score": 52.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND743513AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND700065AAB",
+    "risk_score": 40.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712310AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND700088AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND700136AAG",
+    "risk_score": 40.3,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND743395AAA",
+    "risk_score": 50.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND711303AAA",
+    "risk_score": 30.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND721134AAB",
+    "risk_score": 61.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712103AAA",
+    "risk_score": 22.9,
+    "tier": "Low",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712124AAA",
+    "risk_score": 37.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND712310AAE",
+    "risk_score": 57.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND711409AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND712410AAC",
+    "risk_score": 61.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND713103AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND713145AAB",
+    "risk_score": 60.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND713205AAB",
+    "risk_score": 70.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721306AAA",
+    "risk_score": 64.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND732103AAB",
+    "risk_score": 65.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742101AAC",
+    "risk_score": 65.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742102AAB",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND743235AAA",
+    "risk_score": 51.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND826004AAA",
+    "risk_score": 65.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712406AAA",
+    "risk_score": 62.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712602AAA",
+    "risk_score": 53.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND712612AAA",
+    "risk_score": 50.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722154AAA",
+    "risk_score": 50.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND713128AAB",
+    "risk_score": 60.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND731204AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND731301AAA",
+    "risk_score": 59.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND713130AAA",
+    "risk_score": 45.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741123AAB",
+    "risk_score": 57.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND741126AAB",
+    "risk_score": 60.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741101AAB",
+    "risk_score": 53.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741316AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND713148AAA",
+    "risk_score": 59.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND713303AAA",
+    "risk_score": 52.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722101AAA",
+    "risk_score": 37.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722101AAB",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722101AAC",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722122AAA",
+    "risk_score": 51.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722143AAB",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722202AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND723130AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND723133AAA",
+    "risk_score": 51.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND713364AAB",
+    "risk_score": 49.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND721102AAA",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND721133AAA",
+    "risk_score": 56.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721434AAB",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721139AAC",
+    "risk_score": 41.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND721602AAB",
+    "risk_score": 46.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721636AAB",
+    "risk_score": 37.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND721212AAA",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721253AAC",
+    "risk_score": 52.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721501AAC",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND721507AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND721401AAA",
+    "risk_score": 54.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND722140AAA",
+    "risk_score": 42.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND722151AAA",
+    "risk_score": 57.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND723101AAA",
+    "risk_score": 62.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND723202AAA",
+    "risk_score": 62.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND723131AAA",
+    "risk_score": 55.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND731224AAA",
+    "risk_score": 60.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742147AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND731237AAB",
+    "risk_score": 63.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND732103AAA",
+    "risk_score": 63.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND732138AAA",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND732123AAC",
+    "risk_score": 56.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND732202AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND733128AAA",
+    "risk_score": 61.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND732139AAA",
+    "risk_score": 47.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733102AAA",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733124AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733140AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND732204AAB",
+    "risk_score": 32.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND733129AAB",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733134AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND733129AAA",
+    "risk_score": 47.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733201AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733202AAB",
+    "risk_score": 44.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733210AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND733202AAC",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND734214AAB",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND735224AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND736146AAA",
+    "risk_score": 45.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND736135AAA",
+    "risk_score": 47.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND736101AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND736165AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741502AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741121AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741201AAC",
+    "risk_score": 55.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741156AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND741165AAB",
+    "risk_score": 50.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742121AAB",
+    "risk_score": 58.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742202AAA",
+    "risk_score": 63.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742303AAB",
+    "risk_score": 54.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742121AAA",
+    "risk_score": 48.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742137AAA",
+    "risk_score": 60.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742401AAA",
+    "risk_score": 61.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742148AAA",
+    "risk_score": 38.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742225AAA",
+    "risk_score": 58.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742149AAA",
+    "risk_score": 41.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND742223AAA",
+    "risk_score": 59.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND742226AAA",
+    "risk_score": 62.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND743270AAA",
+    "risk_score": 54.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND743347AAA",
+    "risk_score": 50.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND754103AAA",
+    "risk_score": 58.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND756100AAC",
+    "risk_score": 66.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND760003AAB",
+    "risk_score": 58.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND751014AAA",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND751015AAA",
+    "risk_score": 44.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND752050AAA",
+    "risk_score": 44.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND752055AAA",
+    "risk_score": 24.1,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND752056AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND751021AAA",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND752030AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND754022AAA",
+    "risk_score": 56.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND754142AAA",
+    "risk_score": 31.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND754211AAA",
+    "risk_score": 59.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND754160AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND754202AAA",
+    "risk_score": 62.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND756019AAA",
+    "risk_score": 61.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND756029AAA",
+    "risk_score": 63.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND756032AAA",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND757001AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND757025AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND757041AAA",
+    "risk_score": 57.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND756045AAB",
+    "risk_score": 63.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND757037AAA",
+    "risk_score": 55.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND758001AAA",
+    "risk_score": 59.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND758034AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND757024AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND758035AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND759122AAC",
+    "risk_score": 46.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND767017AAA",
+    "risk_score": 47.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND761020AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND762001AAA",
+    "risk_score": 47.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND764059AAA",
+    "risk_score": 60.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND764071AAB",
+    "risk_score": 61.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND764073AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND767001AAA",
+    "risk_score": 49.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND768004AAD",
+    "risk_score": 48.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND768028AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND768028AAB",
+    "risk_score": 46.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND768201AAA",
+    "risk_score": 41.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND770001AAA",
+    "risk_score": 46.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND768216AAA",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND770017AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND781001AAA",
+    "risk_score": 40.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781003AAA",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781005AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781014AAA",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781102AAA",
+    "risk_score": 52.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND781124AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781018AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND781022AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND781354AAA",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND784001AAA",
+    "risk_score": 62.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND784125AAA",
+    "risk_score": 51.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND784168AAB",
+    "risk_score": 65.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND785001AAA",
+    "risk_score": 69.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND785612AAB",
+    "risk_score": 64.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND785621AAA",
+    "risk_score": 50.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND788026AAC",
+    "risk_score": 64.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND793001AAA",
+    "risk_score": 53.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND781335AAA",
+    "risk_score": 62.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND783129AAA",
+    "risk_score": 63.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND794101AAA",
+    "risk_score": 63.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND783301AAA",
+    "risk_score": 65.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND783348AAA",
+    "risk_score": 62.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND783370AAB",
+    "risk_score": 39.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND784101AAA",
+    "risk_score": 37.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND790114AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND791111AAC",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND784110AAA",
+    "risk_score": 36.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND784176AAA",
+    "risk_score": 63.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND785112AAC",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND785682AAA",
+    "risk_score": 64.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND798601AAA",
+    "risk_score": 37.9,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND785634AAA",
+    "risk_score": 48.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND785675AAA",
+    "risk_score": 64.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND785690AAB",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND786001AAB",
+    "risk_score": 66.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND786125AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND786171AAA",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND786184AAA",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND786190AAA",
+    "risk_score": 56.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND786602AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND792103AAB",
+    "risk_score": 57.7,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND786181AAC",
+    "risk_score": 62.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND792120AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND792121AAB",
+    "risk_score": 40.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND787001AAA",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND787057AAA",
+    "risk_score": 58.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND787059AAB",
+    "risk_score": 60.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND791102AAA",
+    "risk_score": 64.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND788121AAA",
+    "risk_score": 52.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND788151AAA",
+    "risk_score": 58.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND799250AAA",
+    "risk_score": 52.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND796081AAA",
+    "risk_score": 49.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND788713AAA",
+    "risk_score": 38.1,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND788806AAA",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND790001AAB",
+    "risk_score": 40.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND791109AAA",
+    "risk_score": 40.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND791110AAA",
+    "risk_score": 39.9,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND791125AAB",
+    "risk_score": 39.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND792001AAA",
+    "risk_score": 56.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND792110AAA",
+    "risk_score": 37.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND792130AAB",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND793150AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND796009AAA",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND796321AAB",
+    "risk_score": 38.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND799008AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND801103AAA",
+    "risk_score": 39.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND802301AAA",
+    "risk_score": 44.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND802101AAA",
+    "risk_score": 58.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND802119AAA",
+    "risk_score": 37.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND802158AAB",
+    "risk_score": 56.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND802212AAA",
+    "risk_score": 73.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND802213AAB",
+    "risk_score": 55.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND804401AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND803101AAA",
+    "risk_score": 46.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND805110AAD",
+    "risk_score": 46.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND803116AAA",
+    "risk_score": 46.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND803108AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND803213AAA",
+    "risk_score": 41.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND803212AAB",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND811105AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND804420AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND804452AAA",
+    "risk_score": 39.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND811201AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND811213AAA",
+    "risk_score": 44.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND813213AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND811307AAA",
+    "risk_score": 41.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND812002AAA",
+    "risk_score": 38.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND813203AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND813102AAA",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND814101AAB",
+    "risk_score": 54.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND816107AAA",
+    "risk_score": 53.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND814112AAA",
+    "risk_score": 60.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND814133AAA",
+    "risk_score": 54.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND814133AAB",
+    "risk_score": 48.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND816109AAA",
+    "risk_score": 59.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND815301AAA",
+    "risk_score": 41.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND815353AAA",
+    "risk_score": 40.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND815351AAA",
+    "risk_score": 25.7,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND821109AAA",
+    "risk_score": 57.2,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND824101AAA",
+    "risk_score": 55.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND821307AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND825102AAA",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND827013AAA",
+    "risk_score": 57.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND825301AAA",
+    "risk_score": 55.5,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND825409AAA",
+    "risk_score": 54.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND826001AAC",
+    "risk_score": 39.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND828111AAA",
+    "risk_score": 54.6,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND828205AAA",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND828401AAB",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND829121AAA",
+    "risk_score": 55.0,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND829122AAA",
+    "risk_score": 55.9,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND832109AAB",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND841101AAA",
+    "risk_score": 40.3,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND841207AAB",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND841226AAB",
+    "risk_score": 47.8,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND841428AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND841301AAC",
+    "risk_score": 46.0,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND841405AAA",
+    "risk_score": 39.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND841424AAA",
+    "risk_score": 41.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND843105AAB",
+    "risk_score": 56.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND843109AAB",
+    "risk_score": 37.4,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND843126AAA",
+    "risk_score": 38.2,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND843301AAA",
+    "risk_score": 53.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND843320AAA",
+    "risk_score": 59.9,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND843329AAB",
+    "risk_score": 37.8,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND845401AAA",
+    "risk_score": 57.0,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND845412AAB",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND845418AAB",
+    "risk_score": 44.7,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND845438AAA",
+    "risk_score": 53.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND846004AAA",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND847212AAA",
+    "risk_score": 51.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND848101AAA",
+    "risk_score": 57.8,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND848114AAA",
+    "risk_score": 58.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND854326AAB",
+    "risk_score": 65.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND847223AAA",
+    "risk_score": 60.3,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND844101AAB",
+    "risk_score": 39.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND844505AAB",
+    "risk_score": 57.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND845305AAA",
+    "risk_score": 54.7,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND845455AAB",
+    "risk_score": 51.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND847103AAA",
+    "risk_score": 37.6,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND847404AAB",
+    "risk_score": 58.3,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND847226AAA",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND848210AAA",
+    "risk_score": 60.4,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND851127AAA",
+    "risk_score": 55.1,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND851112AAB",
+    "risk_score": 8.9,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND852111AAA",
+    "risk_score": 50.2,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND852118AAA",
+    "risk_score": 49.1,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND854311AAA",
+    "risk_score": 63.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND854335AAA",
+    "risk_score": 53.4,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND852113AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND852139AAB",
+    "risk_score": 55.8,
+    "tier": "High",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND852201AAA",
+    "risk_score": 46.0,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND852118A1B",
+    "risk_score": 52.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND852131AAA",
+    "risk_score": 51.5,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND853204AAA",
+    "risk_score": 46.6,
+    "tier": "Medium",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND851204AAA",
+    "risk_score": 10.8,
+    "tier": "Low",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND854105AAA",
+    "risk_score": 37.5,
+    "tier": "Medium",
+    "trend": "Worsening"
+  },
+  {
+    "hub_id": "IND854105AAB",
+    "risk_score": 58.6,
+    "tier": "High",
+    "trend": "Stable"
+  },
+  {
+    "hub_id": "IND854334AAA",
+    "risk_score": 60.0,
+    "tier": "High",
+    "trend": "Stable"
+  }
+]

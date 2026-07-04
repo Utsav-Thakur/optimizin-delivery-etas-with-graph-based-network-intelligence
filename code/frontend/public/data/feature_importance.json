@@ -1,0 +1,20 @@
+{
+  "is_cutoff_encoded": 0.22034405171871185,
+  "segment_osrm_time": 0.11773118376731873,
+  "avg_delay_ratio_source": 0.11710935086011887,
+  "segment_osrm_distance": 0.07389209419488907,
+  "cutoff_factor": 0.05663828179240227,
+  "corridor_median_delay_ratio": 0.04844405874609947,
+  "out_degree_dest": 0.039591774344444275,
+  "time_of_day_encoded": 0.03951810300350189,
+  "corridor_trip_count": 0.03570408374071121,
+  "hour_of_day": 0.03536049649119377,
+  "betweenness_centrality_dest": 0.035244282335042953,
+  "actual_distance_to_destination": 0.03131833299994469,
+  "route_type_encoded": 0.030903806909918785,
+  "avg_delay_ratio_dest": 0.030567500740289688,
+  "pct_sla_breach_source": 0.029446164146065712,
+  "betweenness_centrality_source": 0.02353486232459545,
+  "pct_sla_breach_dest": 0.02123318612575531,
+  "in_degree_source": 0.013418342918157578
+}
