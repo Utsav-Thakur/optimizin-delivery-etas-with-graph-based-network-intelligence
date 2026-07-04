@@ -9,7 +9,7 @@
 #   1. Organise the project (python organize_project.py)
 #   2. Initialise a Git repository
 #   3. Create the first commit
-#   4. Push to GitHub at https://github.com/Utsav-Thakur/deliveryiq
+#   4. Push to GitHub at https://github.com/Utsav-Thakur/optimizin-delivery-etas-with-graph-based-network-intelligence
 #
 # PRE-REQUISITES:
 #   - Git installed  (git --version)
@@ -109,7 +109,7 @@ echo -e "${GREEN}  ✓ Initial commit created.${NC}"
 echo ""
 echo -e "${CYAN}[5/6] Adding GitHub remote…${NC}"
 
-REMOTE_URL="https://github.com/Utsav-Thakur/deliveryiq"
+REMOTE_URL="https://github.com/Utsav-Thakur/optimizin-delivery-etas-with-graph-based-network-intelligence"
 
 # Remove existing remote if any (idempotent)
 git remote remove origin 2>/dev/null || true
@@ -131,7 +131,7 @@ echo ""
 echo "╔═════════════════════════════════════════════════════════════╗"
 echo "║                    🚀 Push Complete!                        ║"
 echo "╠═════════════════════════════════════════════════════════════╣"
-echo "║  Repository: https://github.com/Utsav-Thakur/deliveryiq    ║"
+echo "║  Repository: https://github.com/Utsav-Thakur/optimizin-delivery-etas-with-graph-based-network-intelligence ║"
 echo "║                                                             ║"
 echo "║  Next steps:                                                ║"
 echo "║   • Add a repository description on GitHub                  ║"
